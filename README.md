@@ -6,7 +6,7 @@ Builds on the Option B analysis and turns it into a **repeatable, self-validatin
 Hooks that validate outputs and log every step, Skills that enforce a consistent finding format,
 and a Notion MCP that publishes findings to a board-facing workspace.
 
-🔗 **Repository:** _(added after first push)_
+🔗 **Repository:** https://github.com/LuisPythonYanguas/capstone-final-latam-pipeline
 📄 **Report:** [`analysis-report.md`](analysis-report.md)
 
 ---

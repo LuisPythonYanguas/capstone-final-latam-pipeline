@@ -25,7 +25,7 @@ $env:NOTION_API_KEY = "secret_your_key_here"
 # Optional — lets the script create the databases/report page if they don't exist:
 $env:NOTION_PARENT_PAGE_ID = "the-32-char-id-from-the-parent-page-url"
 # Optional — embeds chart images from GitHub in the report page:
-$env:GITHUB_RAW_BASE = "https://raw.githubusercontent.com/LuisPythonYanguas/<repo>/main"
+$env:GITHUB_RAW_BASE = "https://raw.githubusercontent.com/LuisPythonYanguas/capstone-final-latam-pipeline/main"
 
 venv\Scripts\python.exe scripts\notion_publish.py
 ```
