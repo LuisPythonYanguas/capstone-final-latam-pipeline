@@ -1,0 +1,11 @@
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Secrets — never commit the real Notion key
+.env
+
+# OS
+.DS_Store
+Thumbs.db

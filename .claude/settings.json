@@ -1,0 +1,37 @@
+{
+  "mcpServers": {
+    "notion": {
+      "command": "npx",
+      "args": ["-y", "@notionhq/notion-mcp-server"],
+      "env": {
+        "OPENAPI_MCP_HEADERS": "{\"Authorization\": \"Bearer YOUR_API_KEY\", \"NotionVersion\": \"2022-06-28\"}"
+      }
+    }
+  },
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write",
+        "handler": {
+          "type": "command",
+          "command": "f=\"$CLAUDE_FILE_PATH\"; if [[ \"$f\" == charts/*.png ]]; then n=$(ls charts/*.png 2>/dev/null | wc -l); echo \"Chart saved: $(basename $f) — $n/5 charts complete\"; fi"
+        }
+      },
+      {
+        "matcher": "Bash",
+        "handler": {
+          "type": "command",
+          "command": "echo \"$(date '+%Y-%m-%d %H:%M:%S') | exit:$CLAUDE_TOOL_RESULT_EXIT_CODE | $(echo $CLAUDE_TOOL_INPUT | head -c 120)\" >> session-log.md"
+        }
+      }
+    ],
+    "Stop": [
+      {
+        "handler": {
+          "type": "command",
+          "command": "bash .claude/hooks/validate-phases.sh"
+        }
+      }
+    ]
+  }
+}
