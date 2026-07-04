@@ -1,0 +1,501 @@
+id,nombre,pais,edad,ocupacion,industria,ingreso_mensual_usd,gasto_vivienda_usd,gasto_alimentacion_usd,gasto_transporte_usd,gasto_entretenimiento_usd,gasto_educacion_usd,gasto_salud_usd,ahorro_mensual_usd,tiene_tarjeta_credito,tiene_cuenta_ahorro,tiene_deuda,deuda_total_usd,meta_financiera,horas_herramientas_ia_semana,satisfaccion_financiera,ahorro_negativo
+1,Diego García,México,28,Community Manager,Educación,1126.61,208.95,273.79,116.58,117.58,140.72,45.66,288.66,Sí,Sí,Sí,1032.26,Ahorrar para viaje,8.3,2,False
+2,Eduardo Guerrero,México,31,Coordinador de Marketing,Tecnología,300.0,85.98,60.0,32.79,11.06,23.13,10.44,10.36,No,No,Sí,1887.58,Invertir en bolsa,0.0,1,False
+3,Fernanda Rojas,México,31,Ingeniero,Diseño,1426.92,345.9,325.49,121.62,120.04,78.36,137.95,380.75,Sí,Sí,Sí,1264.72,Invertir en bolsa,5.6,3,False
+4,Sebastián Flores,Brasil,30,Especialista en RRHH,Recursos Humanos,1405.68,341.02,285.54,175.53,143.01,32.64,51.14,298.82,No,No,No,0.0,Ahorrar para viaje,8.0,3,False
+5,Laura Ruiz,Argentina,27,Ingeniero,Salud,826.07,280.02,241.48,95.34,61.7,24.24,34.71,17.27,Sí,Sí,No,0.0,Pagar deudas,3.9,2,False
+6,Lucía Vargas,Perú,29,Contador,Educación,617.43,192.92,105.46,83.06,53.7,85.46,43.01,129.53,No,No,No,0.0,Ahorrar para retiro,1.8,1,False
+7,Fernanda Vega,Argentina,32,Contador,Ingeniería,662.99,281.96,138.81,109.86,64.15,51.86,47.63,168.2,No,Sí,Sí,6327.27,Invertir en bolsa,4.1,2,False
+8,Gabriel López,Argentina,31,Community Manager,Salud,984.38,415.96,228.25,60.13,138.83,118.88,71.78,112.6,Sí,No,Sí,100.0,Estudiar posgrado,6.7,2,False
+9,Miguel Reyes,México,29,Gerente de Proyectos,Retail,1411.86,308.08,304.92,64.54,179.8,107.95,90.53,164.54,Sí,No,Sí,8464.27,Pagar deudas,2.1,2,False
+10,Gabriel Jiménez,Chile,22,Community Manager,Recursos Humanos,620.85,176.42,152.51,109.42,62.41,93.28,18.83,61.11,Sí,Sí,No,0.0,Comprar casa,6.5,2,False
+11,Emilio Vargas,México,23,Gerente de Proyectos,Diseño,1118.79,443.97,276.46,111.04,81.91,71.44,47.05,-16.31,Sí,No,Sí,6270.46,Pagar deudas,2.6,3,True
+12,Ricardo Herrera,México,30,Especialista en RRHH,Recursos Humanos,778.8,219.6,180.46,64.31,94.7,69.46,43.56,290.58,Sí,Sí,Sí,875.46,Estudiar posgrado,3.3,2,False
+13,Laura Núñez,Chile,30,Community Manager,Tecnología,1600.21,532.49,364.58,197.31,10.71,115.16,0.0,30.65,No,Sí,No,0.0,Pagar deudas,9.1,3,False
+14,Alejandro Torres,Colombia,19,Community Manager,Ingeniería,861.34,188.74,177.73,119.8,63.51,120.14,42.11,129.79,Sí,No,No,0.0,Pagar deudas,4.7,2,False
+15,Jorge Núñez,Brasil,25,Ingeniero,Finanzas,918.95,188.48,281.39,89.53,109.13,93.06,56.82,105.04,Sí,Sí,No,0.0,Invertir en bolsa,6.1,3,False
+16,Mariana Ramírez,Chile,19,Ingeniero,Tecnología,1098.35,329.07,236.05,133.95,100.21,48.82,58.31,186.18,Sí,No,No,0.0,Ahorrar para retiro,8.3,3,False
+17,Andrés Rojas,Perú,29,Especialista en RRHH,Educación,457.99,136.87,114.29,70.81,31.26,35.57,16.94,91.47,No,Sí,Sí,2313.36,Ahorrar para viaje,2.6,2,False
+18,Ricardo Guerrero,Argentina,20,Especialista en RRHH,Diseño,763.22,293.92,205.43,121.6,13.58,121.86,53.8,114.05,Sí,No,Sí,796.51,Comprar casa,6.9,3,False
+19,Tomás Sánchez,México,20,Analista Financiero,Marketing,899.02,246.48,168.49,67.22,62.83,80.3,50.2,92.22,No,Sí,Sí,100.0,Ahorrar para viaje,7.7,2,False
+20,Ana Ramírez,Brasil,24,Gerente de Proyectos,Recursos Humanos,1002.43,305.53,278.17,120.9,151.23,93.0,55.98,119.88,Sí,Sí,Sí,5323.74,Fondo de emergencia,5.7,3,False
+21,Rodrigo Vega,México,18,Contador,Salud,1242.41,373.87,333.49,99.06,153.22,94.7,64.38,76.74,Sí,Sí,No,0.0,Invertir en bolsa,7.9,3,False
+22,Carlos Medina,Argentina,30,Community Manager,Diseño,766.05,325.6,202.06,104.99,121.5,63.51,32.83,177.02,Sí,Sí,Sí,3117.59,Invertir en bolsa,6.3,2,False
+23,Valentina Morales,México,19,Especialista en RRHH,Ingeniería,1002.34,342.58,258.59,79.3,48.53,42.01,31.23,120.39,Sí,Sí,No,0.0,Estudiar posgrado,4.3,3,False
+24,Eduardo Jiménez,Colombia,32,Diseñador Gráfico,Salud,914.59,303.28,189.32,61.02,137.44,122.76,27.39,117.4,Sí,No,No,0.0,Emprender un negocio,3.0,2,False
+25,Ana Ramírez,Perú,22,Especialista en RRHH,Educación,748.48,176.64,145.34,113.92,32.38,69.16,50.0,-73.7,No,Sí,No,0.0,Emprender un negocio,5.2,3,True
+26,Claudia López,México,24,Analista Financiero,Marketing,1194.94,274.42,265.37,152.34,116.71,159.21,92.34,36.97,Sí,Sí,No,0.0,Pagar deudas,6.2,3,False
+27,Pablo Rojas,México,31,Contador,Finanzas,1137.21,438.02,233.32,127.96,63.33,81.6,45.66,294.41,No,No,No,0.0,Comprar casa,5.8,2,False
+28,Jorge Cruz,Brasil,25,Docente,Recursos Humanos,1111.62,351.16,308.63,71.45,106.06,125.18,61.4,-1.96,Sí,Sí,Sí,2001.98,Ahorrar para retiro,4.9,3,True
+29,Ricardo Mendoza,Perú,27,Gerente de Proyectos,Tecnología,1091.98,157.84,207.1,129.52,98.63,94.51,35.34,186.24,No,Sí,Sí,3629.43,Comprar casa,4.8,3,False
+30,Sofía Vargas,Colombia,29,Analista Financiero,Educación,946.41,188.49,206.96,91.12,75.76,72.55,39.62,140.83,Sí,Sí,No,0.0,Pagar deudas,4.0,2,False
+31,Alejandro García,Argentina,25,Analista Financiero,Salud,953.22,295.23,194.59,79.92,46.45,111.07,40.8,80.03,Sí,Sí,Sí,5819.73,Fondo de emergencia,6.1,3,False
+32,Mariana Torres,Chile,28,Representante de Ventas,Finanzas,1472.92,500.17,207.62,118.94,208.09,72.47,104.39,49.14,Sí,No,No,0.0,Pagar deudas,3.8,2,False
+33,Miguel Guerrero,México,23,Docente,Ventas,1040.76,328.57,248.96,144.27,62.77,69.3,42.13,225.7,No,Sí,No,0.0,Ahorrar para viaje,5.3,2,False
+34,Andrés Guerrero,Chile,18,Coordinador de Marketing,Ventas,1047.59,425.21,241.1,84.02,165.36,84.04,45.66,-15.29,No,Sí,Sí,7164.34,Pagar deudas,4.3,3,True
+35,Andrés Torres,Colombia,31,Community Manager,Salud,879.11,169.19,138.89,108.8,53.99,95.84,39.76,163.85,Sí,No,Sí,2890.55,Ahorrar para viaje,2.2,2,False
+36,Laura Medina,Chile,30,Analista Financiero,Ingeniería,1718.91,489.35,330.82,209.04,57.92,106.85,102.66,272.65,Sí,Sí,No,0.0,Ahorrar para retiro,11.4,3,False
+37,Natalia Mendoza,Perú,20,Analista Financiero,Ventas,589.32,93.79,105.25,57.37,31.26,55.75,43.38,-50.89,Sí,No,No,0.0,Emprender un negocio,3.7,3,True
+38,Mariana Reyes,Argentina,23,Especialista en RRHH,Marketing,725.16,210.5,139.71,66.63,75.43,72.79,45.66,147.16,No,Sí,No,0.0,Comprar casa,3.3,1,False
+39,Eduardo Reyes,México,29,Analista Financiero,Educación,1487.77,339.16,260.78,174.15,60.49,52.08,90.54,217.05,No,Sí,Sí,10577.64,Pagar deudas,5.1,2,False
+40,Ricardo García,Perú,19,Gerente de Proyectos,Tecnología,1137.78,318.83,282.41,111.3,76.13,105.85,28.43,108.37,Sí,Sí,Sí,3099.91,Invertir en bolsa,7.5,3,False
+41,Patricia Vargas,Brasil,27,Representante de Ventas,Finanzas,1256.75,375.49,303.18,62.27,167.82,34.93,71.44,69.66,No,No,No,0.0,Pagar deudas,8.0,3,False
+42,Eduardo Alvarado,México,24,Especialista en RRHH,Educación,1637.39,282.69,374.47,190.64,186.06,113.69,67.64,55.53,No,Sí,No,0.0,Ahorrar para viaje,7.0,3,False
+43,Josué Pérez,México,19,Analista Financiero,Marketing,1337.22,453.64,378.86,99.4,95.94,55.13,90.24,65.85,Sí,Sí,No,0.0,Ahorrar para retiro,4.3,3,False
+44,Ricardo Morales,Perú,27,Ingeniero,Recursos Humanos,1185.02,315.46,237.63,189.78,41.68,121.61,49.66,207.97,No,Sí,No,0.0,Emprender un negocio,3.1,2,False
+45,Andrés Medina,Brasil,20,Diseñador Gráfico,Ventas,1747.35,315.04,440.36,191.79,198.14,132.01,45.66,297.89,Sí,Sí,No,0.0,Pagar deudas,13.3,3,False
+46,Patricia Salinas,Perú,18,Contador,Salud,957.91,214.47,228.63,129.66,60.22,93.96,45.66,106.78,Sí,Sí,No,0.0,Comprar casa,6.9,3,False
+47,Camila Ruiz,México,25,Community Manager,Marketing,601.74,165.82,92.54,84.09,33.88,48.96,18.5,86.23,No,Sí,No,0.0,Invertir en bolsa,3.3,2,False
+48,Rodrigo Mendoza,Perú,21,Ingeniero,Ventas,1341.5,243.88,295.12,171.5,124.84,76.02,62.7,78.27,Sí,Sí,Sí,8710.67,Fondo de emergencia,6.4,2,False
+49,Diego Guerrero,Argentina,18,Coordinador de Marketing,Ingeniería,883.35,282.96,195.98,81.99,35.72,71.4,54.61,95.1,No,Sí,Sí,3259.0,Emprender un negocio,8.0,3,False
+50,Sebastián Ortega,México,26,Contador,Finanzas,1222.54,373.07,382.46,172.01,61.79,75.27,81.04,255.9,Sí,Sí,Sí,1491.72,Comprar casa,6.7,3,False
+51,Camila Morales,Colombia,21,Contador,Recursos Humanos,405.15,132.0,77.44,24.92,18.86,33.01,19.64,-32.85,No,No,No,0.0,Invertir en bolsa,3.9,2,True
+52,Pablo García,Brasil,21,Community Manager,Educación,2084.08,643.52,471.83,134.46,134.84,86.55,91.86,135.53,No,Sí,Sí,6135.04,Emprender un negocio,8.2,3,False
+53,Laura Pérez,México,24,Coordinador de Marketing,Retail,1071.33,246.48,293.24,139.2,76.04,95.79,26.64,105.81,No,Sí,Sí,2621.05,Emprender un negocio,5.3,3,False
+54,Pablo Morales,México,23,Diseñador Gráfico,Tecnología,1469.31,331.28,388.47,150.59,38.3,125.62,29.2,-68.21,No,Sí,No,0.0,Estudiar posgrado,1.8,3,True
+55,Emilio Herrera,Chile,28,Coordinador de Marketing,Salud,1262.11,310.02,306.94,80.15,164.15,129.45,57.27,288.44,Sí,Sí,Sí,6479.59,Fondo de emergencia,4.7,2,False
+56,Daniela Medina,México,19,Analista Financiero,Ingeniería,442.41,152.81,102.49,35.3,40.72,46.82,22.95,32.36,No,Sí,No,0.0,Ahorrar para retiro,3.8,2,False
+57,Sofía Jiménez,Argentina,22,Ingeniero,Diseño,795.77,324.33,187.39,66.69,41.53,45.68,64.61,34.96,Sí,Sí,No,0.0,Emprender un negocio,3.7,3,False
+58,Sebastián Medina,México,32,Analista Financiero,Salud,374.18,99.45,120.56,29.67,39.29,13.13,34.71,49.04,Sí,Sí,Sí,3286.21,Ahorrar para retiro,0.0,1,False
+59,Emilio Vargas,Argentina,24,Community Manager,Tecnología,773.57,255.53,190.78,81.04,82.18,111.76,36.98,67.21,Sí,Sí,No,0.0,Invertir en bolsa,4.1,2,False
+60,Eduardo López,Perú,24,Community Manager,Retail,560.81,164.7,135.01,77.23,35.79,52.29,36.39,201.15,Sí,No,Sí,2301.83,Emprender un negocio,2.5,2,False
+61,Natalia Rojas,Brasil,29,Ingeniero,Marketing,1133.36,249.68,345.61,83.57,141.13,141.52,94.47,110.57,Sí,Sí,Sí,3469.63,Pagar deudas,2.8,1,False
+62,Ricardo Castro,Brasil,32,Especialista en RRHH,Salud,1444.23,407.43,364.85,171.39,164.81,119.06,94.42,133.49,Sí,No,Sí,6745.94,Ahorrar para viaje,7.8,4,False
+63,Mariana Sánchez,México,23,Diseñador Gráfico,Finanzas,1292.99,365.96,298.78,97.3,136.72,108.19,81.41,26.19,Sí,No,Sí,5951.75,Ahorrar para viaje,7.7,3,False
+64,Miguel Ramírez,Brasil,25,Diseñador Gráfico,Finanzas,2568.98,796.33,699.07,285.78,228.88,131.08,136.36,264.4,Sí,Sí,No,0.0,Invertir en bolsa,13.4,4,False
+65,Daniela Ramírez,Colombia,27,Ingeniero,Marketing,744.49,157.6,147.73,87.73,69.11,94.62,2.01,-27.14,Sí,Sí,No,0.0,Comprar casa,4.3,2,True
+66,Miguel Núñez,Chile,29,Representante de Ventas,Finanzas,987.21,360.17,274.75,122.15,124.94,87.43,52.16,114.66,Sí,No,No,0.0,Fondo de emergencia,3.2,3,False
+67,Andrea Rojas,Argentina,25,Diseñador Gráfico,Retail,870.45,232.25,106.52,90.44,83.83,102.81,50.94,35.42,Sí,No,Sí,5846.45,Ahorrar para viaje,4.5,2,False
+68,Sebastián López,México,23,Representante de Ventas,Retail,1056.78,287.46,227.02,78.69,122.46,90.43,63.42,123.58,Sí,No,No,0.0,Invertir en bolsa,4.1,3,False
+69,Isabella Guerrero,México,28,Docente,Educación,1153.3,286.56,239.07,84.76,113.64,155.25,52.76,103.26,Sí,Sí,No,0.0,Ahorrar para viaje,7.6,3,False
+70,Lucía Morales,Brasil,27,Contador,Marketing,1489.27,538.99,188.46,130.55,202.92,52.35,110.79,270.35,No,Sí,Sí,7503.94,Invertir en bolsa,6.1,3,False
+71,Tomás Medina,Colombia,25,Coordinador de Marketing,Finanzas,801.17,185.56,220.7,72.26,87.91,52.43,25.98,132.02,No,No,Sí,577.84,Ahorrar para retiro,4.2,2,False
+72,Sofía Ruiz,Colombia,25,Community Manager,Recursos Humanos,960.34,151.32,287.21,135.72,142.73,55.71,25.18,26.3,Sí,Sí,No,0.0,Invertir en bolsa,3.4,2,False
+73,Josué Pérez,México,31,Coordinador de Marketing,Marketing,966.73,275.68,210.02,60.5,71.66,146.72,56.0,92.52,Sí,Sí,No,0.0,Emprender un negocio,8.6,3,False
+74,Andrea Ramírez,México,20,Contador,Diseño,873.36,212.68,192.68,122.85,66.0,57.5,77.04,90.7,No,Sí,Sí,2660.15,Emprender un negocio,7.4,3,False
+75,Diego Mendoza,Argentina,21,Representante de Ventas,Retail,888.82,373.93,209.55,111.23,57.51,103.79,31.71,114.37,Sí,Sí,No,0.0,Estudiar posgrado,6.6,3,False
+76,Pablo Pérez,Argentina,24,Docente,Educación,467.05,148.15,134.37,75.4,21.24,35.78,3.03,-34.0,No,Sí,No,0.0,Invertir en bolsa,3.8,3,True
+77,Miguel Mendoza,Argentina,22,Community Manager,Educación,847.63,320.95,190.72,97.79,108.19,46.35,76.22,45.73,Sí,Sí,No,0.0,Pagar deudas,2.3,3,False
+78,Carlos Torres,México,25,Ingeniero,Retail,605.32,177.29,123.99,70.62,49.4,87.6,45.66,10.16,No,Sí,Sí,1489.81,Pagar deudas,2.6,2,False
+79,Carlos Morales,México,19,Ingeniero,Diseño,967.84,267.75,299.96,136.78,133.15,104.14,62.26,52.15,Sí,No,No,0.0,Estudiar posgrado,4.6,3,False
+80,Andrea Sánchez,México,22,Docente,Educación,1279.57,321.02,362.6,94.34,163.04,73.06,43.46,-58.88,Sí,Sí,No,0.0,Invertir en bolsa,6.9,3,True
+81,Ana Guerrero,Argentina,20,Ingeniero,Ingeniería,912.78,274.77,205.74,126.77,68.69,103.45,64.44,16.76,No,No,No,0.0,Comprar casa,4.4,3,False
+82,Laura Flores,Colombia,25,Ingeniero,Finanzas,650.4,165.86,151.36,73.52,61.94,37.22,41.64,49.17,No,No,No,0.0,Ahorrar para retiro,4.5,2,False
+83,Andrea Flores,Perú,30,Analista Financiero,Tecnología,812.68,214.66,157.18,65.16,97.21,82.99,47.87,109.01,Sí,Sí,No,0.0,Ahorrar para viaje,3.5,2,False
+84,Daniela Alvarado,Perú,25,Representante de Ventas,Diseño,802.08,168.85,234.94,105.87,81.82,71.25,46.45,130.58,Sí,Sí,Sí,3017.71,Pagar deudas,1.9,2,False
+85,Ricardo Salinas,México,19,Analista Financiero,Ingeniería,1306.98,321.05,343.64,91.76,139.53,114.29,80.86,77.57,Sí,No,Sí,5796.3,Pagar deudas,7.7,3,False
+86,Isabella Alvarado,Colombia,21,Community Manager,Ventas,660.21,192.12,142.02,32.88,54.56,64.96,19.71,-66.8,Sí,Sí,Sí,3995.38,Pagar deudas,5.4,2,True
+87,Mariana Ramírez,Brasil,27,Gerente de Proyectos,Recursos Humanos,1998.79,371.37,461.32,209.93,98.79,130.86,134.79,201.23,Sí,Sí,Sí,5155.57,Pagar deudas,6.4,4,False
+88,Rodrigo López,Chile,30,Gerente de Proyectos,Tecnología,1536.17,508.15,420.83,180.73,207.25,56.69,121.94,374.19,Sí,Sí,No,0.0,Ahorrar para retiro,4.1,3,False
+89,Fernanda Ortega,Argentina,21,Contador,Educación,456.08,180.82,137.45,49.49,43.2,18.03,45.66,-18.06,Sí,No,No,0.0,Ahorrar para retiro,5.6,2,True
+90,Emilio Flores,Argentina,23,Representante de Ventas,Recursos Humanos,1186.74,344.08,393.54,157.07,92.56,113.38,65.04,135.04,No,No,No,0.0,Pagar deudas,5.9,3,False
+91,Ricardo Vega,Colombia,25,Contador,Marketing,729.66,202.32,165.02,86.64,35.82,92.17,39.77,128.42,No,Sí,Sí,1275.14,Comprar casa,3.6,2,False
+92,Ana Flores,Colombia,25,Ingeniero,Ventas,981.04,250.04,198.8,73.42,33.4,21.94,45.84,122.32,No,Sí,Sí,2172.86,Pagar deudas,8.0,2,False
+93,Claudia Ramírez,Chile,20,Diseñador Gráfico,Recursos Humanos,1474.2,503.19,393.4,184.71,105.73,117.03,45.35,121.46,No,No,Sí,3700.49,Comprar casa,9.8,3,False
+94,Sebastián Jiménez,Perú,32,Representante de Ventas,Diseño,520.04,115.97,152.35,44.73,38.65,42.7,25.24,151.27,Sí,Sí,No,0.0,Ahorrar para viaje,2.5,2,False
+95,Emilio Núñez,Argentina,27,Ingeniero,Educación,506.39,186.92,154.68,74.24,66.78,36.17,28.3,28.82,Sí,Sí,No,0.0,Ahorrar para retiro,2.9,2,False
+96,Sebastián Guerrero,Brasil,27,Community Manager,Tecnología,1702.11,421.87,439.29,92.45,182.86,88.46,138.15,224.55,No,Sí,No,0.0,Fondo de emergencia,8.5,4,False
+97,Tomás Núñez,Colombia,28,Community Manager,Diseño,885.2,254.64,197.88,102.21,112.87,91.25,56.59,111.28,No,Sí,No,0.0,Ahorrar para viaje,4.9,2,False
+98,Lucía Reyes,Colombia,18,Especialista en RRHH,Tecnología,1177.39,280.03,290.74,151.4,66.66,97.87,45.66,65.75,Sí,Sí,No,0.0,Pagar deudas,5.7,3,False
+99,Eduardo Mendoza,México,22,Docente,Ventas,1338.9,176.39,358.51,139.89,180.15,72.54,53.89,30.92,No,Sí,Sí,5605.96,Estudiar posgrado,5.1,3,False
+100,Ricardo Vargas,Chile,26,Especialista en RRHH,Ingeniería,1424.27,455.09,381.91,58.19,87.99,75.86,46.51,38.08,No,No,No,0.0,Invertir en bolsa,5.6,3,False
+101,Carlos Reyes,Argentina,19,Representante de Ventas,Tecnología,504.75,182.56,169.85,23.11,72.38,43.03,9.13,140.19,Sí,Sí,No,0.0,Pagar deudas,2.6,2,False
+102,Tomás Cruz,Argentina,29,Community Manager,Salud,537.91,172.83,101.84,33.24,34.95,30.02,9.25,27.99,No,Sí,No,0.0,Estudiar posgrado,2.2,2,False
+103,Valentina Ramírez,Brasil,30,Analista Financiero,Ventas,1530.26,417.34,359.29,122.99,47.03,121.83,57.95,306.46,Sí,No,No,0.0,Invertir en bolsa,5.2,2,False
+104,Isabella Pérez,Chile,31,Ingeniero,Salud,1246.49,392.34,199.95,147.11,144.18,86.93,49.31,200.59,No,No,Sí,5296.46,Invertir en bolsa,6.2,3,False
+105,Alejandro Rojas,Colombia,25,Community Manager,Finanzas,692.94,156.76,197.95,90.8,73.95,59.03,60.95,173.26,Sí,Sí,No,0.0,Emprender un negocio,2.2,2,False
+106,Sebastián Cruz,Perú,24,Community Manager,Educación,859.04,231.81,246.27,101.53,128.14,63.07,51.55,111.86,Sí,Sí,Sí,3444.66,Invertir en bolsa,6.5,3,False
+107,Carlos Jiménez,México,24,Ingeniero,Recursos Humanos,1385.2,376.15,314.12,170.52,59.81,100.84,54.69,66.79,No,Sí,No,0.0,Ahorrar para retiro,7.4,4,False
+108,Gabriel Ramírez,Argentina,28,Community Manager,Marketing,467.48,167.73,100.31,32.35,51.74,74.42,34.88,12.28,Sí,Sí,No,0.0,Fondo de emergencia,4.3,2,False
+109,Fernanda García,Brasil,24,Gerente de Proyectos,Ventas,1816.87,491.37,448.0,179.27,174.9,155.92,45.66,114.13,Sí,Sí,Sí,7865.72,Comprar casa,9.7,3,False
+110,Andrea Medina,Chile,18,Analista Financiero,Salud,575.2,105.52,145.59,79.75,44.48,70.87,18.79,-13.76,No,Sí,No,0.0,Comprar casa,4.0,3,True
+111,Emilio Ortega,Chile,29,Community Manager,Ventas,1628.74,515.1,414.57,99.71,274.91,115.61,62.85,73.5,No,Sí,Sí,6626.07,Invertir en bolsa,4.8,2,False
+112,Valentina Núñez,Brasil,25,Especialista en RRHH,Educación,2296.26,618.91,459.32,299.31,271.33,75.81,45.66,167.64,No,Sí,No,0.0,Comprar casa,11.0,4,False
+113,Sebastián Rojas,Perú,26,Diseñador Gráfico,Marketing,915.13,232.0,224.41,139.31,104.81,68.76,63.4,84.96,Sí,Sí,Sí,7505.06,Pagar deudas,9.1,3,False
+114,Rodrigo Herrera,Brasil,27,Contador,Diseño,1121.34,262.66,326.85,144.34,102.26,114.43,36.56,-5.24,Sí,Sí,Sí,7705.39,Ahorrar para retiro,3.5,2,True
+115,Claudia Alvarado,México,20,Coordinador de Marketing,Retail,958.25,203.63,248.6,92.03,78.43,84.36,70.79,-29.06,No,Sí,Sí,4190.4,Comprar casa,9.1,3,True
+116,Isabella Pérez,Perú,25,Especialista en RRHH,Retail,1050.29,308.06,233.21,111.53,139.84,81.33,61.09,135.88,Sí,No,Sí,2692.38,Ahorrar para viaje,4.2,2,False
+117,Gabriel Morales,Perú,28,Diseñador Gráfico,Educación,1061.86,241.63,329.66,119.56,70.46,123.35,47.04,137.78,No,Sí,No,0.0,Ahorrar para retiro,9.0,3,False
+118,Andrea Jiménez,Colombia,18,Ingeniero,Finanzas,1092.45,347.97,287.02,162.4,85.72,104.28,57.42,17.12,Sí,No,No,0.0,Invertir en bolsa,9.0,4,False
+119,Andrés Cruz,México,20,Coordinador de Marketing,Diseño,1161.75,302.68,394.97,112.01,109.8,118.25,86.59,-13.41,Sí,Sí,No,0.0,Fondo de emergencia,9.1,3,True
+120,Mariana Medina,Chile,32,Representante de Ventas,Diseño,1374.37,497.42,335.88,43.54,106.19,121.2,81.84,257.12,Sí,Sí,No,0.0,Estudiar posgrado,4.6,3,False
+121,Claudia Ramírez,Argentina,27,Docente,Ventas,989.65,305.73,235.39,112.38,82.76,45.19,13.97,177.33,Sí,No,No,0.0,Ahorrar para retiro,5.1,3,False
+122,Lucía Ruiz,México,32,Gerente de Proyectos,Salud,954.61,231.34,200.06,109.34,113.31,85.36,61.34,175.89,Sí,No,Sí,5808.43,Ahorrar para retiro,2.5,2,False
+123,Ricardo Salinas,Perú,19,Representante de Ventas,Educación,726.11,139.45,155.32,65.39,27.93,42.37,50.4,21.41,Sí,Sí,Sí,3439.13,Fondo de emergencia,8.5,2,False
+124,Natalia Torres,Argentina,26,Representante de Ventas,Ingeniería,569.13,144.87,60.0,57.31,23.19,66.55,34.95,108.6,No,Sí,No,0.0,Emprender un negocio,2.2,2,False
+125,Fernanda Cruz,Colombia,32,Diseñador Gráfico,Marketing,712.82,240.15,202.58,86.52,55.26,57.32,32.12,145.49,Sí,Sí,No,0.0,Comprar casa,0.7,2,False
+126,Andrés Guerrero,Argentina,24,Diseñador Gráfico,Educación,1198.76,406.53,275.63,155.33,115.97,144.52,45.66,24.47,Sí,Sí,No,0.0,Ahorrar para viaje,7.8,4,False
+127,Jorge Alvarado,Chile,22,Diseñador Gráfico,Diseño,1315.66,441.36,147.24,142.72,35.49,119.0,64.87,114.2,Sí,Sí,No,0.0,Ahorrar para viaje,8.3,4,False
+128,Carlos Núñez,Brasil,21,Community Manager,Ingeniería,2151.55,635.26,572.65,184.6,221.09,81.09,145.33,295.56,Sí,Sí,No,0.0,Pagar deudas,13.8,4,False
+129,Laura Medina,Chile,30,Representante de Ventas,Diseño,999.21,290.72,248.86,100.57,123.25,34.9,45.66,62.21,No,Sí,Sí,5703.73,Ahorrar para retiro,6.0,3,False
+130,Daniela García,Chile,30,Analista Financiero,Salud,1403.24,467.27,286.69,193.83,52.04,109.89,63.24,451.38,No,Sí,No,0.0,Invertir en bolsa,7.5,3,False
+131,Valeria Torres,Brasil,25,Community Manager,Ventas,886.04,266.35,160.43,75.41,60.54,71.59,23.94,161.85,No,Sí,No,0.0,Emprender un negocio,5.0,2,False
+132,Sebastián Vega,Perú,26,Analista Financiero,Diseño,1224.17,336.31,293.69,82.07,34.61,50.56,24.01,132.09,Sí,Sí,Sí,5192.15,Emprender un negocio,4.4,3,False
+133,Eduardo Guerrero,Brasil,18,Analista Financiero,Salud,724.1,239.79,119.6,65.71,45.43,93.47,34.88,100.75,Sí,Sí,Sí,4289.73,Fondo de emergencia,5.9,2,False
+134,Miguel Vega,Argentina,26,Especialista en RRHH,Finanzas,582.08,170.64,155.07,36.91,58.56,78.03,45.66,74.48,Sí,Sí,No,0.0,Ahorrar para retiro,5.7,2,False
+135,Andrés Castro,México,22,Gerente de Proyectos,Ventas,1394.72,577.03,297.43,118.91,144.51,73.79,41.67,18.74,No,Sí,No,0.0,Ahorrar para retiro,7.7,3,False
+136,Fernanda Reyes,Chile,20,Gerente de Proyectos,Recursos Humanos,1457.12,544.11,348.25,197.72,197.91,88.36,78.14,129.82,Sí,No,No,0.0,Invertir en bolsa,9.7,2,False
+137,Valentina Vargas,Perú,23,Diseñador Gráfico,Salud,979.61,227.99,279.06,101.61,71.51,73.35,69.92,140.77,No,Sí,No,0.0,Fondo de emergencia,4.8,2,False
+138,Sebastián Guerrero,Chile,31,Docente,Ventas,978.78,244.8,178.82,123.7,68.68,52.14,7.42,111.72,No,Sí,Sí,2500.09,Comprar casa,4.7,2,False
+139,Josué Cruz,Colombia,23,Analista Financiero,Ventas,892.8,271.43,178.14,113.39,46.55,85.73,19.93,-7.29,Sí,Sí,No,0.0,Estudiar posgrado,3.3,3,True
+140,Ana Pérez,México,22,Coordinador de Marketing,Retail,1033.94,238.3,272.31,82.74,109.65,114.97,55.12,-2.43,Sí,Sí,Sí,4843.96,Ahorrar para retiro,2.1,3,True
+141,Claudia Herrera,Colombia,23,Representante de Ventas,Marketing,1025.8,235.62,156.14,106.0,118.22,114.65,7.6,127.1,No,Sí,Sí,4483.96,Ahorrar para viaje,5.6,3,False
+142,Natalia Flores,Perú,25,Gerente de Proyectos,Educación,944.35,199.56,163.19,116.0,35.06,44.8,42.29,131.09,No,Sí,No,0.0,Pagar deudas,5.0,2,False
+143,Sebastián Guerrero,Perú,24,Representante de Ventas,Marketing,894.73,232.27,180.61,105.61,101.6,40.1,48.08,-155.6,Sí,No,Sí,3531.53,Pagar deudas,5.8,2,True
+144,Alejandro Jiménez,Colombia,30,Representante de Ventas,Retail,820.78,241.41,165.43,80.89,129.12,82.57,37.36,84.69,Sí,Sí,No,0.0,Ahorrar para viaje,5.2,2,False
+145,Diego Ramírez,Colombia,22,Docente,Educación,611.73,199.36,88.8,52.02,65.72,16.58,22.58,20.39,Sí,Sí,Sí,3675.93,Ahorrar para retiro,1.3,2,False
+146,Gabriel García,México,24,Community Manager,Ventas,1171.69,295.98,267.39,79.62,141.5,19.67,48.21,-2.72,Sí,Sí,No,0.0,Fondo de emergencia,9.3,3,True
+147,Jorge Salinas,Chile,22,Representante de Ventas,Finanzas,824.04,277.54,224.64,86.99,49.04,87.13,36.51,-33.14,Sí,No,No,0.0,Pagar deudas,3.1,2,True
+148,Laura López,Chile,25,Diseñador Gráfico,Retail,870.18,250.91,266.75,86.82,60.56,65.42,48.04,136.19,Sí,Sí,No,0.0,Ahorrar para retiro,6.8,3,False
+149,Valeria Pérez,Perú,24,Analista Financiero,Ingeniería,881.87,243.94,226.15,55.53,70.42,105.97,28.78,-59.13,No,No,Sí,697.61,Comprar casa,8.0,2,True
+150,Mariana Medina,Perú,30,Especialista en RRHH,Ventas,666.43,167.82,126.33,32.71,68.98,86.23,12.99,174.2,Sí,Sí,No,0.0,Emprender un negocio,1.4,2,False
+151,Rodrigo Torres,México,25,Gerente de Proyectos,Recursos Humanos,1262.62,237.23,338.76,161.35,59.96,74.52,23.44,116.18,Sí,Sí,No,0.0,Fondo de emergencia,3.7,3,False
+152,Josué Herrera,México,26,Especialista en RRHH,Salud,1280.66,413.5,271.61,141.99,93.36,61.32,49.79,215.75,No,Sí,No,0.0,Comprar casa,4.4,3,False
+153,Eduardo Torres,Colombia,18,Gerente de Proyectos,Recursos Humanos,702.36,132.66,185.85,57.94,14.86,94.71,14.49,118.23,Sí,No,Sí,876.24,Ahorrar para viaje,7.2,2,False
+154,Sofía Núñez,Colombia,32,Community Manager,Ingeniería,1025.18,257.12,257.81,169.13,60.69,81.42,57.49,135.3,No,No,No,0.0,Invertir en bolsa,3.7,3,False
+155,Daniela Herrera,Brasil,32,Community Manager,Recursos Humanos,1805.61,630.79,554.13,197.32,123.84,167.81,0.0,396.01,Sí,No,No,0.0,Comprar casa,6.8,2,False
+156,Sebastián Reyes,Argentina,23,Coordinador de Marketing,Ventas,795.77,192.68,176.6,106.51,48.28,36.79,29.92,-46.72,Sí,Sí,No,0.0,Invertir en bolsa,4.9,3,True
+157,Alejandro Jiménez,Perú,24,Gerente de Proyectos,Recursos Humanos,965.7,202.13,146.65,111.6,58.57,64.32,45.66,27.98,No,No,No,0.0,Ahorrar para viaje,6.7,2,False
+158,Gabriel Torres,Colombia,30,Contador,Ventas,711.3,212.63,188.76,61.45,80.34,53.78,50.62,190.67,Sí,Sí,No,0.0,Invertir en bolsa,5.8,3,False
+159,Pablo Ruiz,Argentina,32,Docente,Ingeniería,894.94,242.06,195.96,116.01,123.46,127.87,21.41,186.44,Sí,Sí,No,0.0,Comprar casa,6.0,3,False
+160,Ricardo Reyes,México,32,Community Manager,Ingeniería,1215.23,406.99,234.56,134.19,110.92,71.68,42.98,129.11,No,No,Sí,3472.87,Emprender un negocio,7.3,2,False
+161,Lucía Morales,Colombia,31,Community Manager,Finanzas,706.23,106.46,146.14,54.72,54.79,25.06,40.74,67.0,No,Sí,Sí,4773.54,Ahorrar para retiro,3.9,2,False
+162,Mariana López,México,22,Coordinador de Marketing,Tecnología,861.77,218.12,182.8,35.09,82.47,75.45,29.1,-1.14,No,Sí,Sí,3731.43,Invertir en bolsa,5.2,2,True
+163,Diego Herrera,Colombia,21,Contador,Marketing,1153.74,297.68,286.89,127.88,165.24,136.04,51.81,92.34,Sí,Sí,No,0.0,Estudiar posgrado,3.0,3,False
+164,Ricardo Herrera,Colombia,20,Ingeniero,Diseño,691.57,134.06,144.23,90.61,40.25,102.29,34.05,-71.29,No,Sí,Sí,1479.86,Invertir en bolsa,2.0,2,True
+165,Sofía Ramírez,Perú,23,Ingeniero,Recursos Humanos,713.54,188.78,148.86,46.75,45.6,68.88,37.03,57.03,Sí,Sí,No,0.0,Ahorrar para retiro,4.8,2,False
+166,Valentina Vargas,Brasil,19,Community Manager,Tecnología,2092.21,611.42,377.51,246.6,137.01,63.27,150.23,2.61,No,Sí,No,0.0,Ahorrar para viaje,7.9,3,False
+167,Pablo Jiménez,Chile,26,Community Manager,Diseño,1203.91,374.32,335.73,157.25,89.69,107.19,53.86,61.26,Sí,No,No,0.0,Invertir en bolsa,4.5,3,False
+168,Miguel Cruz,Perú,28,Contador,Diseño,874.82,279.87,255.08,96.65,93.87,53.74,60.56,147.14,No,Sí,Sí,486.49,Estudiar posgrado,4.5,2,False
+169,Patricia Flores,México,20,Contador,Tecnología,1353.42,493.24,269.95,133.25,129.02,102.79,16.8,162.62,No,No,No,0.0,Ahorrar para viaje,8.6,2,False
+170,Lucía Cruz,Chile,29,Diseñador Gráfico,Finanzas,1064.06,295.31,247.27,48.2,114.1,101.4,30.33,145.28,Sí,Sí,No,0.0,Emprender un negocio,7.1,3,False
+171,Ana Cruz,Chile,27,Contador,Tecnología,1283.36,351.23,214.1,104.0,59.8,62.85,85.33,137.68,Sí,Sí,No,0.0,Ahorrar para retiro,8.8,3,False
+172,Miguel Sánchez,Colombia,18,Especialista en RRHH,Tecnología,1020.08,182.08,275.48,135.11,92.2,88.37,70.56,31.59,No,No,No,0.0,Pagar deudas,6.1,2,False
+173,Gabriel Vargas,Chile,26,Diseñador Gráfico,Finanzas,972.09,369.22,288.94,74.1,89.71,142.51,28.2,125.68,Sí,Sí,No,0.0,Pagar deudas,4.2,2,False
+174,Carlos Núñez,México,22,Contador,Tecnología,756.08,196.09,172.25,56.24,49.33,74.52,38.28,27.28,No,No,No,0.0,Ahorrar para viaje,5.6,3,False
+175,Tomás Reyes,Colombia,30,Analista Financiero,Diseño,664.41,154.73,171.23,57.39,37.7,46.63,43.94,88.85,No,No,No,0.0,Emprender un negocio,1.5,3,False
+176,Andrea Torres,Colombia,31,Coordinador de Marketing,Ventas,863.59,229.79,216.58,42.01,101.0,108.44,45.66,72.97,No,Sí,No,0.0,Fondo de emergencia,3.1,2,False
+177,Mariana Mendoza,México,23,Representante de Ventas,Retail,1274.32,337.42,286.23,99.81,144.17,52.72,85.46,161.63,Sí,Sí,No,0.0,Estudiar posgrado,6.6,4,False
+178,Natalia Jiménez,Brasil,28,Community Manager,Ingeniería,1047.95,292.9,271.21,107.07,79.03,65.29,34.66,153.89,Sí,No,No,0.0,Estudiar posgrado,5.7,3,False
+179,Natalia Núñez,México,25,Coordinador de Marketing,Salud,635.32,194.27,197.61,83.66,54.42,70.76,9.3,149.77,Sí,Sí,No,0.0,Ahorrar para retiro,5.3,2,False
+180,Daniela Pérez,Argentina,22,Contador,Recursos Humanos,1027.61,361.92,294.92,43.01,101.97,117.87,68.31,134.23,Sí,Sí,No,0.0,Emprender un negocio,4.6,2,False
+181,Isabella Pérez,Chile,31,Docente,Diseño,1640.01,650.74,375.52,194.41,217.29,78.68,85.47,133.13,Sí,Sí,No,0.0,Ahorrar para viaje,10.4,3,False
+182,Gabriel Morales,Brasil,23,Diseñador Gráfico,Finanzas,1974.27,676.07,420.68,242.71,119.37,199.24,64.61,195.84,Sí,Sí,No,0.0,Pagar deudas,10.8,4,False
+183,Josué López,Argentina,23,Coordinador de Marketing,Finanzas,671.35,186.11,108.61,47.22,63.49,80.35,38.96,19.47,No,Sí,Sí,3911.68,Emprender un negocio,4.5,2,False
+184,Mariana Jiménez,México,20,Community Manager,Ingeniería,790.43,222.86,163.24,87.18,40.64,119.09,53.64,8.08,No,Sí,No,0.0,Ahorrar para retiro,5.7,3,False
+185,Patricia López,México,19,Especialista en RRHH,Salud,1115.31,342.21,253.75,76.06,190.05,142.23,81.46,42.42,No,Sí,No,0.0,Ahorrar para retiro,9.6,3,False
+186,Mariana Jiménez,Chile,25,Docente,Ventas,680.96,220.44,100.13,48.39,63.14,79.37,37.18,151.59,No,Sí,No,0.0,Pagar deudas,1.4,2,False
+187,Diego Rojas,México,28,Gerente de Proyectos,Educación,921.32,234.31,272.11,103.65,43.78,98.66,70.91,38.77,Sí,Sí,Sí,4966.21,Invertir en bolsa,1.6,2,False
+188,Carlos Morales,Argentina,29,Contador,Tecnología,794.19,256.25,225.69,81.74,57.49,67.67,38.72,187.69,Sí,Sí,Sí,2306.83,Ahorrar para viaje,3.3,2,False
+189,Diego Morales,Perú,24,Diseñador Gráfico,Finanzas,739.5,203.47,174.94,76.05,86.33,37.06,46.45,39.03,Sí,No,Sí,4853.19,Comprar casa,4.9,2,False
+190,Mariana López,Chile,24,Analista Financiero,Tecnología,974.35,380.04,160.24,68.85,52.81,126.2,45.66,39.52,No,No,Sí,4045.31,Comprar casa,5.2,2,False
+191,Claudia Mendoza,México,22,Diseñador Gráfico,Salud,893.23,237.03,230.23,91.24,60.71,104.62,24.92,106.7,No,No,Sí,5356.26,Pagar deudas,6.2,2,False
+192,Natalia Morales,México,30,Gerente de Proyectos,Finanzas,753.86,145.85,154.64,80.23,10.0,10.59,18.03,180.24,No,Sí,Sí,1992.67,Estudiar posgrado,3.4,3,False
+193,Mariana Alvarado,Perú,32,Docente,Marketing,665.82,151.71,193.66,76.47,54.13,54.29,38.17,185.87,Sí,Sí,Sí,1891.14,Invertir en bolsa,1.3,2,False
+194,Natalia García,México,32,Representante de Ventas,Retail,1467.14,493.37,484.34,108.91,119.22,89.96,74.12,300.99,No,Sí,No,0.0,Fondo de emergencia,4.2,3,False
+195,Jorge López,México,22,Coordinador de Marketing,Finanzas,824.37,239.63,236.66,106.16,52.34,56.67,75.74,66.72,No,No,No,0.0,Ahorrar para retiro,6.0,2,False
+196,Isabella Torres,Argentina,25,Ingeniero,Diseño,635.52,167.93,151.92,61.29,45.81,80.8,22.83,45.39,No,No,Sí,2480.13,Emprender un negocio,7.7,2,False
+197,Gabriel Ramírez,Argentina,23,Docente,Tecnología,555.85,153.26,107.33,76.8,55.29,54.43,11.5,41.58,No,Sí,No,0.0,Invertir en bolsa,4.9,2,False
+198,Rodrigo Flores,México,18,Coordinador de Marketing,Educación,1233.71,403.23,258.12,125.05,80.36,70.21,96.11,87.65,No,Sí,Sí,9310.21,Ahorrar para retiro,6.8,3,False
+199,Tomás Flores,Perú,22,Especialista en RRHH,Ventas,654.64,148.9,144.64,47.73,62.44,53.94,46.23,70.86,No,Sí,No,0.0,Pagar deudas,5.4,2,False
+200,Daniela Guerrero,Brasil,28,Coordinador de Marketing,Tecnología,320.33,98.32,94.48,30.57,10.0,18.76,24.19,61.83,Sí,No,No,0.0,Ahorrar para retiro,3.3,1,False
+201,Isabella Salinas,Chile,28,Docente,Ventas,1327.75,486.68,373.19,138.86,104.68,91.59,98.71,39.26,No,No,No,0.0,Pagar deudas,11.7,3,False
+202,Patricia Ruiz,México,21,Gerente de Proyectos,Finanzas,826.96,221.14,216.53,89.23,62.74,120.96,31.72,28.38,Sí,Sí,No,0.0,Pagar deudas,4.0,1,False
+203,Diego Alvarado,Perú,22,Representante de Ventas,Diseño,573.76,119.26,141.2,47.34,57.66,35.78,16.87,-42.42,No,Sí,No,0.0,Ahorrar para viaje,0.0,2,True
+204,Laura Ramírez,México,19,Ingeniero,Tecnología,831.75,249.84,262.41,29.13,84.53,81.09,35.56,58.41,Sí,No,No,0.0,Invertir en bolsa,3.3,2,False
+205,Mariana Torres,Colombia,26,Ingeniero,Tecnología,1232.74,367.75,234.49,44.13,81.56,68.71,63.67,148.85,No,Sí,Sí,820.52,Comprar casa,2.3,3,False
+206,Lucía Jiménez,Perú,28,Contador,Marketing,962.56,241.95,208.92,51.51,108.74,92.5,46.14,-18.36,No,No,Sí,1052.05,Ahorrar para retiro,8.3,3,True
+207,Andrés Medina,Colombia,25,Contador,Retail,852.43,194.14,207.41,98.11,67.26,71.07,45.25,-23.22,No,Sí,No,0.0,Estudiar posgrado,4.7,3,True
+208,Valentina Alvarado,Colombia,31,Analista Financiero,Tecnología,803.36,162.42,183.84,81.75,33.96,44.95,43.79,9.11,Sí,Sí,No,0.0,Fondo de emergencia,3.2,2,False
+209,Carlos López,México,22,Community Manager,Ingeniería,951.59,303.72,195.03,54.42,51.33,78.96,45.66,29.83,No,No,Sí,5009.7,Estudiar posgrado,5.0,2,False
+210,Jorge Pérez,México,20,Especialista en RRHH,Finanzas,1034.86,290.21,280.42,63.87,143.99,110.59,68.7,247.7,Sí,Sí,No,0.0,Pagar deudas,6.7,2,False
+211,Alejandro Herrera,Perú,23,Coordinador de Marketing,Finanzas,752.03,105.2,121.39,70.32,63.53,69.18,54.99,77.12,No,Sí,No,0.0,Pagar deudas,7.2,2,False
+212,Andrés Herrera,Colombia,26,Ingeniero,Finanzas,879.28,216.66,266.83,61.89,71.54,98.34,29.27,-17.81,Sí,Sí,Sí,2412.99,Estudiar posgrado,2.8,2,True
+213,Alejandro Sánchez,México,27,Contador,Retail,1062.79,305.52,240.22,75.47,95.36,74.27,48.91,24.81,No,Sí,Sí,5052.86,Ahorrar para retiro,5.4,2,False
+214,Claudia Núñez,Chile,32,Contador,Diseño,1861.1,618.43,479.43,278.43,191.25,58.85,145.33,34.59,Sí,Sí,Sí,2076.16,Comprar casa,7.1,3,False
+215,Lucía Rojas,Colombia,25,Community Manager,Recursos Humanos,792.73,204.45,154.53,59.37,78.93,66.37,43.62,112.61,Sí,Sí,Sí,3749.58,Emprender un negocio,5.6,3,False
+216,Tomás Castro,México,29,Gerente de Proyectos,Ingeniería,942.12,198.85,213.97,141.36,32.87,29.14,45.66,209.71,Sí,Sí,No,0.0,Comprar casa,8.9,3,False
+217,Miguel Jiménez,Colombia,23,Gerente de Proyectos,Finanzas,698.38,220.67,174.36,64.61,56.44,74.62,31.95,70.07,No,Sí,Sí,2065.52,Invertir en bolsa,0.0,2,False
+218,Tomás Núñez,Brasil,31,Contador,Finanzas,1063.14,257.59,290.09,135.65,134.53,82.99,42.01,267.97,No,No,Sí,3718.82,Pagar deudas,5.7,2,False
+219,Mariana Jiménez,Colombia,29,Contador,Salud,1362.79,427.61,328.03,128.05,124.83,102.99,74.94,357.24,Sí,Sí,Sí,8609.15,Ahorrar para viaje,6.6,2,False
+220,Emilio Rojas,México,24,Diseñador Gráfico,Salud,682.98,196.49,150.37,103.35,56.33,72.55,29.06,-14.59,Sí,No,No,0.0,Emprender un negocio,1.1,2,True
+221,Sebastián Jiménez,Colombia,26,Diseñador Gráfico,Tecnología,832.09,219.01,252.84,61.31,54.38,70.28,41.4,203.84,Sí,Sí,Sí,3552.72,Invertir en bolsa,1.5,3,False
+222,Laura Cruz,México,27,Gerente de Proyectos,Recursos Humanos,1272.77,411.27,229.64,102.04,57.6,87.29,59.03,117.34,No,Sí,Sí,6161.29,Ahorrar para viaje,5.0,2,False
+223,Rodrigo Morales,Chile,25,Diseñador Gráfico,Ingeniería,1667.93,591.18,372.92,216.71,47.75,128.61,85.81,132.0,Sí,Sí,Sí,4991.72,Ahorrar para viaje,8.2,3,False
+224,Andrea Salinas,Perú,24,Especialista en RRHH,Educación,438.96,112.0,86.74,64.14,15.8,39.53,23.37,50.58,No,Sí,Sí,266.67,Ahorrar para viaje,4.0,2,False
+225,Claudia Cruz,México,31,Contador,Educación,1322.18,342.09,388.35,132.34,235.62,99.98,77.24,248.83,Sí,No,Sí,7219.6,Ahorrar para retiro,8.7,2,False
+226,Rodrigo Vargas,México,21,Diseñador Gráfico,Salud,943.96,230.29,285.86,123.89,21.38,139.35,79.94,25.55,Sí,No,Sí,5280.77,Ahorrar para retiro,7.4,3,False
+227,Daniela Torres,Colombia,30,Docente,Tecnología,860.81,292.61,204.77,74.62,99.52,68.2,43.52,188.36,Sí,No,Sí,1581.71,Ahorrar para viaje,6.7,2,False
+228,Valeria Jiménez,Argentina,31,Gerente de Proyectos,Recursos Humanos,561.88,197.06,130.59,36.87,44.18,77.56,16.91,81.4,Sí,Sí,Sí,3893.32,Ahorrar para viaje,0.3,2,False
+229,Gabriel Morales,México,27,Contador,Educación,1488.8,426.92,336.83,195.84,131.93,137.99,64.17,-36.39,Sí,Sí,Sí,4931.48,Pagar deudas,6.8,3,True
+230,Miguel Salinas,México,31,Gerente de Proyectos,Recursos Humanos,1284.37,370.27,309.33,176.74,110.8,58.41,98.22,153.97,No,Sí,No,0.0,Ahorrar para retiro,4.8,3,False
+231,Claudia Guerrero,Brasil,20,Contador,Finanzas,2874.49,599.63,670.45,300.58,410.21,86.43,47.73,204.65,Sí,Sí,Sí,10802.91,Invertir en bolsa,16.1,5,False
+232,Patricia Guerrero,Chile,20,Docente,Marketing,1235.93,439.61,234.53,50.68,66.9,92.01,34.27,-60.51,No,Sí,No,0.0,Ahorrar para retiro,8.7,3,True
+233,Andrés López,Argentina,32,Docente,Retail,377.28,163.88,126.89,33.07,41.0,30.94,8.39,91.01,Sí,Sí,Sí,2473.47,Ahorrar para retiro,0.0,2,False
+234,Andrea Guerrero,México,24,Gerente de Proyectos,Finanzas,300.0,89.32,60.0,42.98,32.69,24.47,19.71,78.23,No,Sí,No,0.0,Emprender un negocio,1.9,2,False
+235,Miguel Alvarado,Perú,24,Diseñador Gráfico,Ventas,769.54,169.32,241.63,106.78,50.34,77.61,13.41,50.09,No,No,Sí,235.73,Emprender un negocio,6.2,2,False
+236,Alejandro Guerrero,Chile,25,Gerente de Proyectos,Ventas,1535.65,546.6,340.94,187.62,72.18,148.09,83.35,107.08,Sí,Sí,Sí,4623.17,Ahorrar para retiro,9.6,3,False
+237,Ricardo Reyes,Brasil,23,Especialista en RRHH,Diseño,1515.29,419.22,382.2,143.63,207.67,114.85,45.65,124.04,No,Sí,Sí,2128.41,Estudiar posgrado,9.7,3,False
+238,Miguel Ramírez,México,30,Coordinador de Marketing,Tecnología,966.93,268.31,267.68,104.64,101.09,60.96,54.2,126.93,Sí,Sí,No,0.0,Invertir en bolsa,4.0,2,False
+239,Fernanda Castro,México,32,Coordinador de Marketing,Tecnología,1445.1,468.92,438.85,143.77,102.53,78.04,84.99,123.89,Sí,Sí,Sí,7380.39,Ahorrar para viaje,4.7,3,False
+240,Pablo Ramírez,Perú,32,Especialista en RRHH,Tecnología,630.84,187.95,140.49,53.17,28.39,83.27,16.97,70.26,No,Sí,Sí,3534.49,Pagar deudas,2.9,3,False
+241,Valentina Sánchez,México,20,Community Manager,Ventas,728.91,169.15,198.4,87.64,79.26,66.26,56.86,76.91,Sí,Sí,No,0.0,Estudiar posgrado,4.4,2,False
+242,Isabella Castro,Chile,19,Especialista en RRHH,Recursos Humanos,1104.04,285.51,273.13,137.13,149.92,64.5,21.94,108.49,No,No,No,0.0,Pagar deudas,6.0,3,False
+243,Fernanda Castro,Brasil,19,Docente,Retail,1458.03,338.32,361.88,103.21,99.75,53.04,67.34,63.15,Sí,Sí,Sí,9704.16,Comprar casa,8.5,3,False
+244,Diego Morales,Brasil,26,Diseñador Gráfico,Finanzas,300.0,82.75,60.0,44.47,37.66,11.38,18.95,54.47,Sí,Sí,No,0.0,Comprar casa,2.0,2,False
+245,Isabella Torres,México,20,Diseñador Gráfico,Ingeniería,599.62,185.14,166.75,59.8,21.35,55.2,34.04,27.04,Sí,Sí,No,0.0,Ahorrar para retiro,3.7,2,False
+246,Valeria Ruiz,México,20,Diseñador Gráfico,Diseño,683.29,226.41,129.64,36.9,90.29,75.12,46.24,73.42,Sí,Sí,No,0.0,Pagar deudas,5.0,2,False
+247,Laura Jiménez,México,23,Docente,Diseño,698.48,172.69,124.09,62.27,66.62,37.86,30.95,46.52,No,Sí,Sí,1983.96,Emprender un negocio,1.9,3,False
+248,Ricardo Flores,Brasil,20,Docente,Diseño,1816.89,323.46,339.58,145.65,97.22,112.78,111.06,189.11,No,Sí,Sí,8183.12,Estudiar posgrado,8.6,3,False
+249,Alejandro García,Chile,25,Docente,Retail,1619.12,556.76,344.43,237.2,223.42,82.81,94.91,12.61,Sí,No,Sí,3336.84,Ahorrar para retiro,7.7,3,False
+250,Fernanda Medina,Perú,22,Coordinador de Marketing,Ingeniería,876.42,151.68,217.77,63.69,87.02,87.31,75.26,39.77,Sí,No,No,0.0,Comprar casa,3.1,3,False
+251,Carlos Sánchez,Perú,18,Coordinador de Marketing,Retail,1009.48,274.03,335.21,24.1,85.22,87.38,73.65,-0.86,Sí,Sí,Sí,3442.53,Estudiar posgrado,7.1,2,True
+252,Isabella Morales,Chile,31,Analista Financiero,Salud,1325.35,444.14,377.54,108.66,56.64,62.02,56.41,194.89,No,Sí,No,0.0,Pagar deudas,7.8,3,False
+253,Valentina Herrera,Argentina,31,Coordinador de Marketing,Diseño,938.85,373.71,228.87,151.41,39.0,132.45,45.66,98.5,Sí,No,No,0.0,Ahorrar para retiro,3.1,3,False
+254,Claudia Medina,Brasil,18,Contador,Salud,1758.34,570.83,368.53,150.72,287.81,79.72,141.87,89.08,No,Sí,Sí,5208.17,Estudiar posgrado,14.5,4,False
+255,Lucía Pérez,México,23,Coordinador de Marketing,Retail,976.91,237.08,282.45,115.87,119.38,78.6,63.36,103.7,Sí,Sí,No,0.0,Pagar deudas,6.5,3,False
+256,Claudia Ruiz,Colombia,18,Analista Financiero,Ingeniería,895.88,229.94,150.04,70.86,90.01,31.67,45.66,2.29,No,Sí,Sí,8391.02,Estudiar posgrado,5.4,2,False
+257,Carlos Morales,México,18,Gerente de Proyectos,Educación,1170.66,266.29,252.8,181.25,106.35,107.11,47.01,158.73,No,Sí,Sí,2209.63,Ahorrar para retiro,5.9,2,False
+258,Claudia Rojas,Perú,23,Coordinador de Marketing,Salud,404.9,103.7,90.68,21.06,19.56,41.64,17.87,55.22,No,Sí,Sí,1777.3,Comprar casa,0.1,2,False
+259,Patricia Guerrero,Brasil,20,Diseñador Gráfico,Tecnología,707.08,161.9,182.18,53.49,54.99,60.34,49.14,-2.21,Sí,Sí,Sí,3851.57,Invertir en bolsa,4.6,2,True
+260,Isabella Medina,Brasil,28,Contador,Ingeniería,1526.33,458.14,374.31,116.91,52.24,123.26,97.1,257.47,No,No,Sí,6191.23,Ahorrar para retiro,8.9,3,False
+261,Isabella Reyes,Brasil,25,Gerente de Proyectos,Finanzas,2281.19,554.61,642.38,152.61,134.24,40.3,133.93,249.77,Sí,Sí,No,0.0,Ahorrar para viaje,12.8,4,False
+262,Sofía Sánchez,México,28,Docente,Diseño,1103.19,295.48,363.31,85.89,119.72,82.69,32.21,266.22,Sí,Sí,Sí,3930.19,Comprar casa,2.8,2,False
+263,Claudia Vargas,Argentina,27,Coordinador de Marketing,Retail,523.94,170.01,70.96,66.95,61.51,65.68,40.29,-43.56,No,Sí,No,0.0,Estudiar posgrado,4.7,2,True
+264,Eduardo Alvarado,Colombia,22,Ingeniero,Tecnología,463.37,113.89,71.81,45.49,51.4,28.73,17.23,134.32,No,No,Sí,2792.31,Ahorrar para retiro,4.4,2,False
+265,Valeria Mendoza,Perú,21,Ingeniero,Educación,1043.96,218.93,191.61,96.58,71.2,81.53,31.15,125.75,No,Sí,Sí,5347.61,Ahorrar para viaje,5.6,3,False
+266,Gabriel Reyes,Chile,28,Coordinador de Marketing,Diseño,1232.81,532.52,354.81,152.87,117.26,74.55,36.62,109.4,Sí,Sí,Sí,2572.23,Ahorrar para viaje,2.5,2,False
+267,Tomás García,México,22,Representante de Ventas,Finanzas,794.72,173.26,170.09,85.71,21.7,59.07,42.97,-19.77,No,No,Sí,1063.21,Ahorrar para retiro,7.5,2,True
+268,Gabriel Núñez,Colombia,18,Gerente de Proyectos,Finanzas,691.75,145.59,199.76,77.65,106.08,60.1,25.15,35.93,Sí,Sí,No,0.0,Invertir en bolsa,8.0,3,False
+269,Valeria García,Chile,25,Coordinador de Marketing,Tecnología,1440.49,378.73,418.93,166.07,153.3,25.06,64.21,74.59,Sí,Sí,No,0.0,Estudiar posgrado,7.1,3,False
+270,Rodrigo García,México,26,Ingeniero,Diseño,1064.73,316.87,283.11,120.41,146.0,105.86,37.83,111.9,Sí,Sí,No,0.0,Fondo de emergencia,6.3,2,False
+271,Eduardo García,Colombia,32,Contador,Retail,1007.04,237.33,233.23,104.47,10.0,125.25,38.58,194.57,No,Sí,Sí,2305.21,Ahorrar para retiro,2.5,2,False
+272,Isabella Salinas,Chile,21,Gerente de Proyectos,Marketing,973.06,332.35,267.33,92.56,86.07,56.98,20.75,145.33,Sí,Sí,No,0.0,Invertir en bolsa,7.1,3,False
+273,Emilio Morales,Argentina,24,Gerente de Proyectos,Diseño,836.67,313.92,188.46,56.94,100.44,28.73,76.18,25.39,Sí,Sí,No,0.0,Comprar casa,2.3,2,False
+274,Mariana López,Perú,25,Analista Financiero,Ingeniería,1150.01,227.54,313.71,149.82,177.51,86.64,48.55,94.11,Sí,Sí,Sí,4239.1,Comprar casa,3.7,2,False
+275,Ana Alvarado,Perú,21,Analista Financiero,Ventas,1022.37,256.44,277.77,81.63,98.35,60.78,71.75,-106.2,Sí,Sí,No,0.0,Comprar casa,6.3,3,True
+276,Andrea Herrera,Brasil,27,Ingeniero,Tecnología,1485.83,269.44,289.57,78.51,118.04,88.61,82.3,-73.31,No,Sí,Sí,4412.02,Comprar casa,4.9,2,True
+277,Miguel Pérez,México,18,Especialista en RRHH,Diseño,775.04,233.12,165.24,102.46,81.09,95.55,27.79,52.41,No,Sí,Sí,1911.11,Emprender un negocio,5.9,2,False
+278,Camila Pérez,Argentina,21,Docente,Salud,783.5,245.74,182.34,56.44,50.6,73.91,34.76,33.75,Sí,No,No,0.0,Invertir en bolsa,4.3,2,False
+279,Miguel Cruz,Colombia,25,Community Manager,Diseño,900.32,261.0,180.44,81.95,47.68,106.5,72.59,13.71,Sí,Sí,Sí,4284.7,Pagar deudas,6.9,3,False
+280,Emilio Mendoza,Perú,19,Ingeniero,Educación,968.9,242.21,277.25,107.56,61.91,74.63,42.03,-15.83,No,Sí,No,0.0,Invertir en bolsa,5.0,3,True
+281,Pablo Guerrero,México,27,Analista Financiero,Tecnología,596.03,149.88,164.3,37.04,64.81,77.97,38.19,152.13,No,No,No,0.0,Pagar deudas,3.0,2,False
+282,Camila Ruiz,Chile,24,Analista Financiero,Retail,1499.69,497.4,420.61,175.8,105.13,99.82,84.48,177.77,No,Sí,No,0.0,Estudiar posgrado,9.5,2,False
+283,Camila Flores,Argentina,23,Community Manager,Ventas,442.75,136.32,150.64,66.33,35.61,37.59,15.43,107.91,Sí,Sí,Sí,1213.24,Invertir en bolsa,2.2,2,False
+284,Patricia Reyes,Argentina,19,Community Manager,Educación,805.21,302.75,213.32,59.87,57.97,80.34,39.45,54.21,No,Sí,No,0.0,Pagar deudas,6.2,2,False
+285,Sebastián Jiménez,Colombia,32,Especialista en RRHH,Marketing,531.1,147.9,99.02,44.26,21.56,10.37,30.39,102.65,No,Sí,No,0.0,Invertir en bolsa,0.0,1,False
+286,Eduardo García,México,18,Diseñador Gráfico,Marketing,779.16,291.11,106.16,61.03,60.9,45.79,17.45,75.3,No,Sí,No,0.0,Ahorrar para viaje,6.3,3,False
+287,Valentina Alvarado,Argentina,22,Community Manager,Ventas,801.21,299.63,196.56,101.39,70.75,54.63,11.47,84.52,No,Sí,Sí,2085.38,Comprar casa,4.5,2,False
+288,Carlos Medina,Perú,21,Community Manager,Tecnología,738.05,188.36,200.26,69.61,62.52,29.54,35.57,-2.29,Sí,Sí,Sí,1356.15,Ahorrar para retiro,8.9,2,True
+289,Sebastián Salinas,Chile,19,Analista Financiero,Finanzas,1494.54,433.38,397.15,117.17,82.6,40.47,45.66,131.05,Sí,Sí,Sí,6385.29,Fondo de emergencia,11.1,3,False
+290,Fernanda Ruiz,Chile,19,Especialista en RRHH,Tecnología,1157.78,399.76,242.32,212.01,79.07,125.73,12.82,14.62,No,No,No,0.0,Estudiar posgrado,6.9,3,False
+291,Sofía Ramírez,Colombia,26,Gerente de Proyectos,Ingeniería,836.06,231.75,264.08,64.79,27.71,88.23,72.0,35.93,Sí,No,Sí,3200.84,Estudiar posgrado,1.0,2,False
+292,Natalia Morales,Colombia,30,Ingeniero,Marketing,1069.46,310.46,148.01,117.39,72.69,98.19,47.86,159.31,No,Sí,No,0.0,Pagar deudas,1.7,2,False
+293,Emilio Morales,Colombia,18,Contador,Finanzas,573.98,112.45,82.53,33.31,50.82,33.43,43.22,-23.21,No,Sí,No,0.0,Ahorrar para viaje,9.5,3,True
+294,Sofía Herrera,México,20,Especialista en RRHH,Salud,735.67,215.62,119.56,51.45,61.13,63.58,41.09,-160.02,No,Sí,No,0.0,Emprender un negocio,4.3,2,True
+295,Camila Guerrero,Brasil,18,Diseñador Gráfico,Diseño,1008.14,251.35,280.34,143.36,130.31,82.64,44.87,122.36,Sí,Sí,No,0.0,Emprender un negocio,3.7,2,False
+296,Fernanda Ruiz,Argentina,21,Docente,Salud,864.29,310.95,159.75,81.04,74.82,51.59,50.64,13.67,No,Sí,Sí,1970.65,Estudiar posgrado,2.6,2,False
+297,Patricia Morales,México,27,Docente,Ingeniería,809.96,301.9,154.52,59.06,86.06,110.57,37.02,89.1,No,Sí,Sí,2230.0,Ahorrar para viaje,1.1,2,False
+298,Gabriel Medina,Argentina,30,Community Manager,Salud,1078.83,174.06,324.4,161.37,127.16,112.74,56.82,90.8,Sí,Sí,No,0.0,Comprar casa,1.1,2,False
+299,Alejandro Jiménez,Perú,21,Representante de Ventas,Ventas,829.65,175.4,176.56,68.09,44.11,101.0,45.66,161.23,No,Sí,Sí,1576.47,Comprar casa,2.5,3,False
+300,Miguel Jiménez,Chile,21,Community Manager,Ingeniería,1094.52,326.95,340.17,107.96,77.03,103.37,42.49,-37.1,Sí,Sí,No,0.0,Invertir en bolsa,2.7,2,True
+301,Isabella Herrera,Chile,24,Diseñador Gráfico,Diseño,701.35,256.15,225.36,70.63,30.55,80.88,46.27,17.4,Sí,Sí,Sí,1464.08,Fondo de emergencia,7.1,3,False
+302,Josué Pérez,México,28,Contador,Recursos Humanos,1482.45,431.34,395.9,136.63,182.75,136.88,86.32,217.73,Sí,No,Sí,9764.4,Emprender un negocio,8.5,3,False
+303,Andrea Castro,Brasil,23,Especialista en RRHH,Finanzas,440.13,102.09,85.41,20.0,42.43,46.19,21.09,14.22,No,Sí,Sí,2374.3,Emprender un negocio,1.3,2,False
+304,Gabriel Núñez,Colombia,23,Docente,Ventas,939.19,251.36,194.58,103.22,77.31,90.77,79.54,146.83,Sí,No,No,0.0,Ahorrar para viaje,7.7,3,False
+305,Camila Ramírez,Brasil,26,Ingeniero,Ventas,1044.76,209.17,191.47,66.75,30.84,116.77,75.45,161.52,No,Sí,No,0.0,Estudiar posgrado,0.0,2,False
+306,Natalia Ramírez,México,28,Docente,Tecnología,1034.41,258.52,280.89,123.55,41.15,89.45,45.66,118.76,No,Sí,No,0.0,Ahorrar para viaje,6.3,3,False
+307,Isabella Alvarado,México,26,Ingeniero,Tecnología,1144.39,308.13,341.68,107.84,77.68,161.61,47.91,224.52,No,Sí,No,0.0,Fondo de emergencia,4.7,2,False
+308,Claudia Flores,Chile,31,Contador,Ingeniería,1156.76,348.64,288.35,94.86,36.67,84.23,0.0,270.4,Sí,No,No,0.0,Estudiar posgrado,5.0,3,False
+309,Patricia Salinas,Colombia,29,Analista Financiero,Ventas,919.17,175.45,237.96,111.29,101.14,121.3,77.65,9.06,Sí,Sí,Sí,1778.82,Ahorrar para viaje,4.2,3,False
+310,Miguel Salinas,México,21,Ingeniero,Salud,1251.53,294.11,201.71,28.23,24.25,53.02,32.26,-83.93,No,Sí,No,0.0,Ahorrar para retiro,7.6,3,True
+311,Claudia Cruz,México,21,Diseñador Gráfico,Ingeniería,1284.8,300.36,195.15,136.66,77.48,89.55,56.66,198.76,Sí,Sí,No,0.0,Estudiar posgrado,1.5,3,False
+312,Josué Mendoza,México,32,Especialista en RRHH,Salud,1231.37,308.18,288.49,171.03,154.28,76.53,42.62,146.93,Sí,Sí,Sí,4078.01,Pagar deudas,8.6,3,False
+313,Mariana Ortega,Chile,22,Analista Financiero,Salud,959.25,269.82,191.28,112.29,18.91,66.1,28.2,-18.19,Sí,No,Sí,4511.51,Pagar deudas,11.0,3,True
+314,Pablo Salinas,Chile,32,Docente,Tecnología,1565.98,339.58,418.92,122.67,166.15,127.93,74.92,200.6,No,Sí,Sí,8288.37,Emprender un negocio,6.7,3,False
+315,Sebastián Rojas,Perú,23,Docente,Recursos Humanos,789.82,165.73,169.27,94.77,107.1,61.23,44.67,-58.86,No,No,No,0.0,Ahorrar para retiro,4.6,2,True
+316,Ana Medina,México,19,Contador,Educación,1197.54,396.4,307.82,129.33,97.2,156.83,48.58,111.87,Sí,No,Sí,2098.75,Ahorrar para retiro,7.1,2,False
+317,Alejandro Torres,Chile,18,Representante de Ventas,Diseño,1067.87,257.52,284.29,113.07,88.52,116.44,103.94,133.73,Sí,No,Sí,3681.44,Invertir en bolsa,4.3,2,False
+318,Mariana Medina,México,29,Representante de Ventas,Finanzas,973.33,361.56,229.63,86.79,119.11,72.83,45.65,90.14,Sí,No,Sí,1292.27,Ahorrar para viaje,5.0,2,False
+319,Sofía Núñez,México,31,Gerente de Proyectos,Tecnología,1208.93,324.22,339.14,94.61,75.58,49.12,49.4,163.78,No,Sí,Sí,3273.0,Ahorrar para viaje,5.0,2,False
+320,Isabella Morales,México,25,Community Manager,Ingeniería,1034.16,213.57,289.39,69.72,166.82,108.59,57.44,164.81,Sí,Sí,Sí,3411.92,Emprender un negocio,3.5,2,False
+321,Camila Herrera,Brasil,25,Diseñador Gráfico,Recursos Humanos,737.71,202.01,226.26,56.87,67.26,23.19,47.61,157.44,Sí,Sí,No,0.0,Ahorrar para retiro,1.2,2,False
+322,Sebastián Salinas,Argentina,30,Representante de Ventas,Ventas,821.2,239.72,295.41,104.78,75.9,100.35,61.38,128.51,Sí,Sí,No,0.0,Fondo de emergencia,4.4,2,False
+323,Emilio Alvarado,Colombia,23,Community Manager,Tecnología,870.05,199.13,235.38,126.31,40.79,115.14,47.44,48.37,Sí,Sí,Sí,2904.82,Fondo de emergencia,7.1,2,False
+324,Ricardo Núñez,Chile,19,Contador,Recursos Humanos,1205.97,375.93,210.51,157.12,102.02,101.37,72.18,126.84,Sí,Sí,Sí,6281.13,Emprender un negocio,7.9,3,False
+325,Isabella Núñez,México,26,Coordinador de Marketing,Finanzas,708.22,192.95,225.55,49.39,79.16,105.33,27.13,53.35,Sí,No,No,0.0,Invertir en bolsa,2.2,2,False
+326,Miguel Vega,Chile,24,Diseñador Gráfico,Marketing,1524.06,486.69,266.57,123.62,165.45,75.13,70.92,-9.91,No,No,Sí,5782.63,Ahorrar para viaje,8.6,3,True
+327,Natalia Castro,México,18,Gerente de Proyectos,Finanzas,1259.97,374.15,311.52,100.72,70.65,87.97,114.92,38.72,No,No,No,0.0,Ahorrar para retiro,7.1,3,False
+328,Sofía Salinas,Brasil,23,Ingeniero,Ventas,1242.71,300.05,357.29,60.66,141.54,150.21,92.51,152.96,Sí,No,Sí,4396.97,Emprender un negocio,4.5,2,False
+329,Jorge Salinas,México,31,Community Manager,Retail,697.19,218.95,164.0,77.97,41.09,80.92,20.6,30.68,Sí,No,Sí,2060.98,Comprar casa,1.5,2,False
+330,Rodrigo Salinas,Perú,25,Especialista en RRHH,Marketing,1007.72,221.34,244.89,57.18,137.89,110.33,30.35,177.73,No,No,No,0.0,Emprender un negocio,4.6,3,False
+331,Andrés García,Colombia,30,Coordinador de Marketing,Retail,569.62,125.52,129.76,61.06,62.19,22.24,10.62,72.24,Sí,Sí,No,0.0,Pagar deudas,3.0,2,False
+332,Claudia Herrera,Colombia,18,Ingeniero,Salud,1115.13,319.33,298.33,109.51,116.89,147.69,58.08,158.55,Sí,No,Sí,2153.89,Pagar deudas,4.2,3,False
+333,Andrés Morales,México,31,Docente,Recursos Humanos,738.67,251.36,146.02,57.49,39.87,109.27,24.85,209.11,Sí,Sí,No,0.0,Ahorrar para viaje,4.0,2,False
+334,Emilio Castro,Brasil,24,Ingeniero,Diseño,1068.97,313.78,290.44,126.01,148.99,65.9,47.88,-2.89,Sí,Sí,No,0.0,Pagar deudas,2.0,2,True
+335,Sofía López,Colombia,18,Coordinador de Marketing,Tecnología,805.6,213.82,232.2,62.96,54.79,108.45,42.83,-39.47,Sí,No,No,0.0,Pagar deudas,3.6,2,True
+336,Eduardo Ortega,Chile,28,Contador,Ingeniería,1543.65,397.05,295.43,186.37,47.91,83.36,64.52,71.78,No,Sí,No,0.0,Estudiar posgrado,6.0,3,False
+337,Miguel Medina,Brasil,29,Community Manager,Marketing,889.22,178.3,251.72,110.99,41.11,90.74,42.91,115.26,Sí,Sí,Sí,3282.99,Pagar deudas,7.9,3,False
+338,Valeria Herrera,Brasil,30,Ingeniero,Ingeniería,300.0,55.61,72.46,35.07,35.37,11.75,45.66,-0.97,Sí,Sí,No,0.0,Pagar deudas,4.1,2,True
+339,Isabella Vargas,México,30,Representante de Ventas,Finanzas,1232.91,372.35,314.32,53.27,98.52,89.6,52.7,201.38,No,No,No,0.0,Emprender un negocio,8.9,3,False
+340,Jorge Torres,Brasil,25,Ingeniero,Ventas,872.46,223.67,219.1,94.78,70.54,71.29,45.66,126.26,No,Sí,Sí,5228.22,Invertir en bolsa,2.1,2,False
+341,Valeria Castro,Argentina,20,Ingeniero,Tecnología,855.93,380.15,227.31,86.38,63.99,74.15,42.95,142.6,No,No,Sí,4463.55,Comprar casa,6.2,2,False
+342,Emilio Torres,Brasil,29,Analista Financiero,Recursos Humanos,1585.94,544.12,479.76,118.74,123.07,57.92,47.28,374.81,Sí,No,Sí,5046.64,Comprar casa,4.4,3,False
+343,Gabriel Herrera,Chile,23,Diseñador Gráfico,Ingeniería,1128.29,345.55,243.74,158.56,78.86,89.82,45.66,74.92,No,Sí,No,0.0,Estudiar posgrado,10.9,3,False
+344,Daniela Alvarado,México,26,Gerente de Proyectos,Recursos Humanos,890.73,271.36,208.51,51.66,82.16,84.96,38.45,98.6,No,No,Sí,335.09,Comprar casa,5.2,2,False
+345,Gabriel Ramírez,Colombia,25,Gerente de Proyectos,Retail,880.01,271.63,147.01,84.18,40.25,71.33,7.23,-30.52,Sí,Sí,No,0.0,Fondo de emergencia,5.7,3,True
+346,Patricia Ortega,Colombia,28,Coordinador de Marketing,Educación,1126.71,360.28,269.26,107.64,106.84,122.67,32.79,209.12,Sí,Sí,Sí,4926.27,Pagar deudas,5.8,3,False
+347,Eduardo Morales,Brasil,22,Community Manager,Ventas,1001.97,280.98,310.59,150.2,121.89,79.64,40.61,61.12,Sí,Sí,Sí,1788.4,Estudiar posgrado,5.3,3,False
+348,Tomás Ramírez,Argentina,29,Analista Financiero,Finanzas,372.85,160.65,93.97,52.49,27.44,41.14,45.66,101.34,No,No,No,0.0,Comprar casa,0.9,1,False
+349,Andrés Reyes,Perú,29,Contador,Educación,843.58,199.78,191.55,99.88,91.47,74.4,45.66,155.77,No,Sí,Sí,907.25,Ahorrar para viaje,7.0,3,False
+350,Jorge Ortega,México,19,Representante de Ventas,Diseño,575.83,175.23,161.2,67.95,48.66,43.93,22.63,53.59,No,No,Sí,3476.39,Pagar deudas,6.8,3,False
+351,Miguel López,Brasil,21,Diseñador Gráfico,Recursos Humanos,1675.09,580.09,427.45,178.59,148.83,144.51,92.23,-33.39,Sí,Sí,No,0.0,Comprar casa,10.0,3,True
+352,Carlos Núñez,Colombia,32,Community Manager,Ingeniería,1065.46,252.14,320.34,79.65,115.11,82.49,70.35,248.7,Sí,No,No,0.0,Comprar casa,3.3,2,False
+353,Diego Guerrero,Chile,18,Coordinador de Marketing,Finanzas,1318.42,460.59,408.11,113.86,189.28,94.77,27.21,8.63,Sí,Sí,No,0.0,Invertir en bolsa,7.9,3,False
+354,Emilio Pérez,Perú,29,Ingeniero,Retail,1020.49,337.27,292.68,96.87,92.26,129.24,35.82,294.52,Sí,No,Sí,6453.36,Fondo de emergencia,7.8,2,False
+355,Tomás Mendoza,México,21,Especialista en RRHH,Salud,1069.25,285.62,248.43,164.14,98.74,68.31,44.67,15.98,Sí,Sí,Sí,5403.86,Invertir en bolsa,7.7,3,False
+356,Gabriel Flores,México,19,Ingeniero,Ventas,1224.66,362.1,244.57,139.88,76.53,152.29,25.47,-46.36,Sí,Sí,No,0.0,Invertir en bolsa,9.0,3,True
+357,Natalia Mendoza,México,30,Representante de Ventas,Ingeniería,807.4,224.69,184.32,70.46,97.97,64.27,35.79,57.97,No,Sí,No,0.0,Ahorrar para retiro,4.5,2,False
+358,Claudia Núñez,México,18,Coordinador de Marketing,Finanzas,1536.95,506.99,368.87,163.03,31.08,169.14,84.04,-100.74,Sí,No,No,0.0,Ahorrar para retiro,7.6,3,True
+359,Isabella Rojas,México,21,Gerente de Proyectos,Diseño,1076.68,297.88,161.07,104.65,85.97,59.13,24.77,98.89,Sí,Sí,No,0.0,Estudiar posgrado,5.6,3,False
+360,Mariana Herrera,Colombia,30,Gerente de Proyectos,Educación,618.75,79.1,195.85,87.95,58.86,62.92,22.68,105.58,Sí,Sí,Sí,2017.01,Ahorrar para retiro,3.2,2,False
+361,Diego Reyes,Argentina,26,Docente,Marketing,888.04,274.74,171.83,118.28,105.43,75.9,67.29,35.01,Sí,Sí,No,0.0,Comprar casa,3.0,1,False
+362,Fernanda García,Colombia,21,Gerente de Proyectos,Marketing,895.7,226.58,221.71,90.87,90.67,83.1,17.21,52.48,Sí,Sí,Sí,3600.2,Pagar deudas,5.5,3,False
+363,Natalia Vega,Colombia,31,Ingeniero,Tecnología,845.38,269.04,215.97,61.69,114.75,45.77,53.6,177.73,No,Sí,Sí,3692.75,Invertir en bolsa,5.5,3,False
+364,Valeria Reyes,Chile,20,Especialista en RRHH,Finanzas,1401.88,512.27,321.76,91.38,116.7,130.03,23.69,257.35,No,Sí,Sí,3373.0,Fondo de emergencia,12.7,3,False
+365,Patricia Jiménez,México,22,Representante de Ventas,Finanzas,1220.18,340.99,345.99,131.95,121.13,79.54,65.53,104.38,No,Sí,Sí,1330.47,Invertir en bolsa,6.1,3,False
+366,Andrea Reyes,Argentina,32,Contador,Tecnología,921.61,287.74,172.02,94.42,111.93,107.56,26.52,127.25,Sí,Sí,No,0.0,Estudiar posgrado,2.0,2,False
+367,Isabella Vega,Brasil,22,Diseñador Gráfico,Finanzas,1810.71,447.74,590.54,126.34,168.59,134.57,111.44,154.55,Sí,Sí,No,0.0,Invertir en bolsa,7.9,4,False
+368,Emilio Jiménez,Perú,31,Especialista en RRHH,Retail,821.59,103.47,196.42,68.91,62.91,57.26,23.28,0.74,No,Sí,Sí,3874.91,Fondo de emergencia,3.4,2,False
+369,Claudia García,México,25,Coordinador de Marketing,Salud,1219.41,401.84,348.39,102.86,130.66,95.53,27.89,30.62,Sí,Sí,No,0.0,Emprender un negocio,4.1,3,False
+370,Rodrigo Morales,México,28,Diseñador Gráfico,Tecnología,716.51,205.2,126.25,41.23,41.66,48.29,45.47,-24.84,No,No,No,0.0,Emprender un negocio,6.0,2,True
+371,Valentina Mendoza,Perú,30,Docente,Marketing,840.35,267.98,205.19,77.15,90.96,110.33,57.91,23.05,No,Sí,Sí,4330.31,Pagar deudas,2.9,3,False
+372,Laura Núñez,México,29,Diseñador Gráfico,Tecnología,1395.76,309.89,297.99,200.37,75.37,129.75,91.95,371.51,Sí,No,Sí,9018.34,Invertir en bolsa,6.7,2,False
+373,Andrés Torres,México,21,Gerente de Proyectos,Finanzas,910.03,252.07,147.34,84.33,99.82,55.36,52.01,53.69,No,No,No,0.0,Ahorrar para viaje,9.0,2,False
+374,Patricia Medina,Argentina,25,Docente,Finanzas,897.64,336.97,114.22,108.12,92.72,64.68,48.31,50.09,No,Sí,Sí,2188.97,Comprar casa,4.2,2,False
+375,Valentina Medina,Argentina,21,Community Manager,Ingeniería,457.96,179.53,125.75,41.93,18.13,63.1,31.9,33.15,No,Sí,No,0.0,Pagar deudas,2.2,2,False
+376,Gabriel Vega,México,25,Representante de Ventas,Recursos Humanos,717.87,209.76,167.69,45.25,73.52,101.64,45.66,-1.2,Sí,No,Sí,1497.53,Comprar casa,2.7,2,True
+377,Diego Pérez,Chile,30,Docente,Ingeniería,874.81,195.06,233.24,63.68,107.19,114.48,39.33,188.49,Sí,Sí,Sí,4341.16,Ahorrar para viaje,2.9,2,False
+378,Laura Flores,Chile,27,Gerente de Proyectos,Recursos Humanos,1509.55,422.23,261.01,222.24,132.76,64.85,126.28,214.2,No,No,No,0.0,Comprar casa,7.0,3,False
+379,Patricia Medina,Colombia,25,Analista Financiero,Salud,844.2,260.96,166.33,106.08,44.87,106.74,20.55,-79.24,No,Sí,Sí,2251.72,Ahorrar para retiro,2.5,2,True
+380,Valentina Castro,Brasil,18,Gerente de Proyectos,Finanzas,1839.42,543.19,338.0,154.17,152.88,40.41,76.58,39.9,No,Sí,Sí,8348.25,Ahorrar para viaje,10.7,3,False
+381,Jorge Castro,Colombia,29,Docente,Finanzas,1114.07,290.38,262.41,71.36,78.0,111.55,14.36,170.61,No,Sí,Sí,2172.83,Pagar deudas,6.7,3,False
+382,Diego Sánchez,México,18,Gerente de Proyectos,Retail,1263.88,396.38,251.17,174.06,63.81,86.68,62.02,289.02,No,Sí,No,0.0,Fondo de emergencia,7.7,3,False
+383,Miguel Mendoza,Chile,28,Contador,Recursos Humanos,1550.76,530.0,435.45,132.7,260.57,84.69,45.66,332.13,Sí,Sí,No,0.0,Emprender un negocio,9.9,3,False
+384,Natalia Torres,Perú,22,Analista Financiero,Recursos Humanos,977.59,253.16,191.07,134.85,82.83,35.74,40.77,-13.54,No,No,No,0.0,Pagar deudas,9.6,3,True
+385,Andrés López,Argentina,25,Ingeniero,Marketing,735.61,265.77,217.35,77.52,70.59,59.82,29.15,4.18,Sí,No,No,0.0,Comprar casa,2.9,2,False
+386,Daniela Medina,México,25,Docente,Ventas,1205.03,284.89,276.05,147.08,74.47,42.62,53.36,167.55,Sí,Sí,No,0.0,Estudiar posgrado,8.1,2,False
+387,Carlos Ruiz,Argentina,24,Representante de Ventas,Ingeniería,466.91,136.22,92.72,57.47,50.7,19.28,18.42,61.42,Sí,Sí,No,0.0,Comprar casa,3.2,2,False
+388,Valeria López,México,30,Contador,Finanzas,1055.44,272.27,291.05,88.0,62.62,121.82,48.88,162.76,Sí,Sí,No,0.0,Comprar casa,5.5,2,False
+389,Tomás Núñez,México,24,Representante de Ventas,Recursos Humanos,985.03,300.78,290.25,123.49,96.3,69.8,17.77,133.96,Sí,Sí,Sí,3588.25,Fondo de emergencia,3.5,2,False
+390,Jorge Ramírez,Chile,31,Especialista en RRHH,Ingeniería,1123.07,441.11,290.44,71.49,141.06,99.12,20.04,161.1,Sí,Sí,No,0.0,Emprender un negocio,7.0,3,False
+391,Lucía Rojas,Perú,25,Gerente de Proyectos,Retail,698.84,244.74,194.94,89.15,46.06,59.0,30.44,82.54,Sí,Sí,No,0.0,Pagar deudas,6.0,3,False
+392,Laura Vega,Colombia,23,Representante de Ventas,Educación,556.52,146.77,136.15,67.1,52.12,69.69,29.64,-62.39,Sí,Sí,No,0.0,Ahorrar para viaje,5.6,3,True
+393,Camila Flores,Perú,18,Community Manager,Tecnología,636.6,172.91,143.06,70.33,77.08,86.29,46.1,-84.93,Sí,Sí,Sí,1369.27,Estudiar posgrado,5.2,2,True
+394,Pablo Alvarado,Argentina,25,Diseñador Gráfico,Finanzas,535.6,221.85,61.51,33.84,82.01,40.45,24.11,-16.16,No,Sí,Sí,2571.41,Emprender un negocio,3.4,2,True
+395,Eduardo Jiménez,Brasil,30,Gerente de Proyectos,Diseño,1947.88,535.52,334.71,234.76,179.35,154.82,95.79,300.02,No,Sí,No,0.0,Pagar deudas,7.7,3,False
+396,Emilio Vargas,Brasil,20,Ingeniero,Ingeniería,1492.98,648.61,353.49,139.92,155.16,137.67,90.72,-125.09,Sí,Sí,Sí,9617.2,Invertir en bolsa,9.2,3,True
+397,Ana Cruz,México,26,Diseñador Gráfico,Finanzas,1420.53,348.22,342.93,131.02,82.2,123.02,73.59,234.89,Sí,Sí,No,0.0,Estudiar posgrado,6.5,3,False
+398,Ana García,Perú,24,Representante de Ventas,Educación,743.91,202.18,160.22,55.99,28.79,92.69,42.06,84.61,No,Sí,No,0.0,Emprender un negocio,3.6,2,False
+399,Sofía Cruz,Colombia,20,Analista Financiero,Finanzas,1033.84,131.79,296.68,157.41,120.35,135.7,22.95,-5.58,Sí,Sí,No,0.0,Ahorrar para viaje,8.8,2,True
+400,Sebastián Ortega,México,26,Ingeniero,Ingeniería,857.82,258.07,236.11,92.28,59.34,74.54,31.88,-1.41,No,No,Sí,3633.5,Fondo de emergencia,4.9,3,True
+401,Isabella Flores,México,18,Coordinador de Marketing,Marketing,1317.54,470.22,242.44,150.28,74.24,66.94,75.13,211.41,No,Sí,Sí,1871.11,Pagar deudas,7.7,3,False
+402,Laura Reyes,Colombia,22,Representante de Ventas,Retail,1144.97,353.47,379.4,117.02,141.16,100.85,19.16,66.55,Sí,No,No,0.0,Ahorrar para viaje,4.2,2,False
+403,Miguel Ramírez,Colombia,31,Especialista en RRHH,Retail,566.28,161.98,90.06,34.83,65.26,32.21,15.28,130.12,No,Sí,No,0.0,Ahorrar para viaje,2.8,2,False
+404,Andrea Núñez,México,23,Especialista en RRHH,Retail,1380.3,389.91,336.43,156.92,148.71,123.57,125.69,34.68,No,No,Sí,7838.86,Emprender un negocio,7.1,2,False
+405,Tomás Reyes,México,20,Ingeniero,Diseño,923.47,234.62,273.38,98.32,55.32,73.6,45.66,70.42,Sí,No,Sí,1941.44,Pagar deudas,5.6,3,False
+406,Claudia Sánchez,Chile,25,Contador,Marketing,1245.54,351.0,382.58,124.46,105.37,74.65,68.74,100.99,No,Sí,No,0.0,Pagar deudas,6.4,2,False
+407,Valeria Ortega,México,22,Diseñador Gráfico,Marketing,1072.08,349.32,234.88,66.49,105.69,101.07,78.66,41.23,Sí,No,Sí,6412.77,Estudiar posgrado,10.6,3,False
+408,Sofía Núñez,Argentina,23,Ingeniero,Finanzas,933.85,337.71,344.19,81.28,71.35,127.82,26.73,16.55,Sí,Sí,Sí,4719.01,Invertir en bolsa,8.6,3,False
+409,Carlos García,Brasil,19,Gerente de Proyectos,Educación,1583.62,391.41,462.79,148.25,122.89,87.72,109.92,245.44,No,Sí,No,0.0,Pagar deudas,9.8,4,False
+410,Alejandro Morales,México,28,Analista Financiero,Recursos Humanos,1285.62,366.62,215.86,187.39,16.47,104.77,32.05,386.78,No,No,Sí,6838.2,Invertir en bolsa,6.9,2,False
+411,Gabriel López,Chile,28,Diseñador Gráfico,Retail,1003.78,379.99,207.9,94.53,80.21,70.12,29.45,177.71,No,No,No,0.0,Ahorrar para retiro,1.3,2,False
+412,Sebastián Ramírez,Brasil,26,Coordinador de Marketing,Educación,1812.47,512.45,465.92,204.23,186.1,134.3,140.51,178.04,Sí,No,No,0.0,Invertir en bolsa,9.5,3,False
+413,Sebastián Guerrero,México,25,Contador,Ventas,327.27,103.77,77.94,32.77,16.11,25.08,11.2,78.06,Sí,Sí,Sí,1145.77,Invertir en bolsa,1.1,2,False
+414,Patricia Guerrero,Brasil,28,Representante de Ventas,Marketing,1211.6,399.84,395.61,157.62,107.96,82.75,60.31,197.94,Sí,Sí,No,0.0,Pagar deudas,6.7,3,False
+415,Lucía Medina,Colombia,20,Coordinador de Marketing,Finanzas,960.39,237.55,201.3,124.68,79.45,20.72,39.25,44.06,Sí,No,Sí,3691.46,Ahorrar para retiro,4.1,2,False
+416,Camila Flores,Colombia,20,Coordinador de Marketing,Educación,919.34,262.58,191.13,98.12,132.57,63.36,26.03,119.54,Sí,Sí,Sí,3165.2,Invertir en bolsa,6.1,2,False
+417,Ricardo Ramírez,Brasil,19,Analista Financiero,Marketing,889.96,241.97,227.04,105.96,65.2,76.74,33.4,21.51,No,Sí,No,0.0,Pagar deudas,4.7,2,False
+418,Fernanda Núñez,Chile,26,Ingeniero,Marketing,1392.05,510.89,327.63,176.49,121.1,99.25,84.72,87.24,Sí,Sí,No,0.0,Ahorrar para retiro,6.1,2,False
+419,Sebastián Torres,Argentina,31,Community Manager,Tecnología,812.03,228.85,221.13,80.57,58.96,53.39,45.96,35.05,Sí,Sí,No,0.0,Ahorrar para retiro,3.8,2,False
+420,Carlos Sánchez,México,22,Diseñador Gráfico,Ingeniería,1108.53,223.0,245.28,67.58,102.89,95.1,83.0,-47.76,Sí,No,Sí,4892.25,Fondo de emergencia,5.4,3,True
+421,Ricardo Sánchez,Argentina,20,Diseñador Gráfico,Salud,713.62,263.47,165.19,99.97,58.82,78.32,50.65,144.93,Sí,No,No,0.0,Comprar casa,3.9,2,False
+422,Jorge Flores,Argentina,27,Contador,Finanzas,839.01,310.12,170.69,110.2,47.99,127.93,34.64,138.99,No,No,No,0.0,Invertir en bolsa,3.5,2,False
+423,Fernanda Ramírez,México,22,Especialista en RRHH,Ingeniería,876.75,278.76,188.96,51.2,79.07,50.5,45.66,55.52,Sí,Sí,No,0.0,Ahorrar para retiro,5.2,2,False
+424,Valentina Ruiz,México,30,Gerente de Proyectos,Recursos Humanos,1197.35,303.5,251.16,114.11,175.39,132.45,41.27,100.62,Sí,No,Sí,10656.42,Ahorrar para retiro,5.8,3,False
+425,Josué Salinas,México,23,Diseñador Gráfico,Recursos Humanos,1370.44,410.86,395.33,128.12,83.41,69.17,45.31,-14.49,Sí,Sí,No,0.0,Estudiar posgrado,6.3,3,True
+426,Natalia Medina,Brasil,20,Docente,Finanzas,465.44,145.78,85.36,47.71,31.39,51.95,27.77,72.32,No,Sí,Sí,2550.63,Invertir en bolsa,4.3,2,False
+427,Isabella Flores,Colombia,29,Contador,Salud,688.7,165.07,113.33,41.97,46.98,70.71,0.0,198.89,No,Sí,Sí,1419.43,Emprender un negocio,5.2,1,False
+428,Isabella Mendoza,Chile,19,Representante de Ventas,Salud,1167.89,388.67,315.9,121.99,79.54,96.76,51.38,-3.99,No,No,No,0.0,Comprar casa,7.1,3,True
+429,Mariana Alvarado,Colombia,21,Docente,Salud,1048.35,217.35,256.19,146.85,79.27,144.62,25.59,89.33,No,Sí,Sí,6245.8,Emprender un negocio,9.5,2,False
+430,Josué Herrera,México,19,Docente,Salud,670.29,202.79,214.58,60.07,52.86,75.0,29.11,92.37,Sí,No,Sí,1770.77,Fondo de emergencia,10.2,3,False
+431,Pablo Ortega,Perú,28,Docente,Tecnología,676.43,250.41,157.24,22.5,69.54,89.46,25.87,223.55,Sí,Sí,Sí,1119.48,Pagar deudas,4.8,2,False
+432,Fernanda Herrera,México,28,Ingeniero,Retail,1095.84,288.79,267.33,93.69,92.45,19.19,0.07,339.69,Sí,Sí,No,0.0,Fondo de emergencia,3.5,2,False
+433,Emilio Sánchez,Perú,27,Gerente de Proyectos,Retail,361.89,88.72,115.62,20.0,43.29,21.09,2.71,115.36,Sí,Sí,No,0.0,Fondo de emergencia,0.0,2,False
+434,Pablo Jiménez,México,31,Representante de Ventas,Salud,788.7,138.44,161.73,130.71,83.21,90.56,52.28,102.0,Sí,Sí,Sí,1430.13,Emprender un negocio,6.7,3,False
+435,Camila Vargas,México,20,Diseñador Gráfico,Marketing,1377.08,385.28,284.06,56.86,108.72,134.9,127.42,180.79,No,Sí,Sí,9731.98,Fondo de emergencia,5.8,3,False
+436,Carlos Rojas,Colombia,27,Analista Financiero,Marketing,954.17,256.48,232.54,76.88,89.76,82.28,66.34,86.99,Sí,Sí,No,0.0,Pagar deudas,4.6,2,False
+437,Sebastián Jiménez,Argentina,25,Analista Financiero,Ingeniería,809.78,204.98,92.53,64.45,65.34,90.74,45.66,151.99,Sí,Sí,No,0.0,Estudiar posgrado,5.9,2,False
+438,Andrea Núñez,Chile,32,Coordinador de Marketing,Finanzas,835.42,295.51,153.3,98.41,101.26,112.33,61.57,99.38,No,Sí,No,0.0,Estudiar posgrado,7.8,2,False
+439,Ana Guerrero,México,25,Ingeniero,Marketing,961.58,220.03,157.26,98.03,10.0,88.37,51.79,199.36,No,Sí,Sí,2821.61,Comprar casa,6.5,3,False
+440,Ana Vega,México,23,Analista Financiero,Ventas,680.49,250.84,221.74,59.52,90.32,67.52,49.09,20.66,Sí,Sí,Sí,2970.44,Estudiar posgrado,0.0,2,False
+441,Daniela Vargas,Argentina,21,Gerente de Proyectos,Finanzas,900.79,322.34,245.35,107.85,19.43,95.04,58.57,58.75,Sí,Sí,No,0.0,Pagar deudas,5.2,2,False
+442,Lucía Salinas,México,27,Especialista en RRHH,Ventas,1093.08,393.68,288.88,45.22,141.26,131.65,32.06,39.85,No,Sí,Sí,5520.05,Comprar casa,5.2,2,False
+443,Jorge Flores,México,19,Contador,Marketing,914.44,336.25,226.16,108.21,51.09,39.28,28.42,-13.25,Sí,Sí,Sí,9046.11,Invertir en bolsa,7.9,3,True
+444,Rodrigo Vargas,Colombia,28,Diseñador Gráfico,Finanzas,517.16,142.45,119.24,40.07,56.48,35.51,13.94,110.88,Sí,Sí,Sí,2562.17,Emprender un negocio,4.8,2,False
+445,Emilio Núñez,Argentina,18,Coordinador de Marketing,Marketing,672.86,297.57,151.91,98.57,39.92,71.45,21.22,39.32,No,Sí,Sí,1389.19,Estudiar posgrado,1.9,2,False
+446,Lucía Ortega,Perú,28,Diseñador Gráfico,Educación,573.11,114.37,176.57,52.4,44.95,19.0,11.71,161.07,Sí,Sí,Sí,2667.19,Emprender un negocio,0.0,2,False
+447,Emilio Vargas,México,32,Especialista en RRHH,Tecnología,1272.96,435.3,234.01,64.38,97.74,50.48,47.41,96.63,No,Sí,Sí,6935.76,Ahorrar para retiro,5.1,2,False
+448,Valentina Jiménez,México,26,Diseñador Gráfico,Retail,1084.74,332.37,212.33,43.13,125.45,37.38,52.28,150.23,No,No,No,0.0,Comprar casa,0.8,2,False
+449,Tomás Morales,Argentina,30,Representante de Ventas,Recursos Humanos,843.75,280.32,219.52,55.83,91.56,89.61,25.49,98.29,Sí,Sí,Sí,2172.74,Pagar deudas,5.7,2,False
+450,Valentina Morales,Brasil,32,Representante de Ventas,Diseño,1027.43,188.33,252.99,99.53,120.45,70.6,90.22,334.54,Sí,No,Sí,5149.97,Ahorrar para viaje,8.6,3,False
+451,Sofía Pérez,Brasil,24,Especialista en RRHH,Ingeniería,535.55,102.87,214.16,54.48,75.92,50.41,30.08,-26.37,Sí,No,No,0.0,Invertir en bolsa,1.6,2,True
+452,Mariana Ruiz,Colombia,25,Contador,Ventas,766.29,135.71,145.88,86.38,78.68,77.03,14.73,117.13,No,Sí,Sí,1414.33,Invertir en bolsa,3.3,2,False
+453,Alejandro García,Chile,29,Coordinador de Marketing,Finanzas,1002.91,436.02,259.51,70.68,25.0,44.35,73.31,222.09,No,Sí,Sí,2654.77,Invertir en bolsa,3.9,3,False
+454,Rodrigo Vega,Colombia,23,Ingeniero,Marketing,795.88,208.08,148.24,89.14,32.93,80.35,20.59,43.09,No,Sí,No,0.0,Emprender un negocio,3.6,2,False
+455,Alejandro Morales,Colombia,20,Representante de Ventas,Ingeniería,938.75,196.67,222.36,69.26,138.03,129.62,32.44,67.87,Sí,Sí,Sí,2603.78,Ahorrar para retiro,2.8,2,False
+456,Eduardo Pérez,México,22,Especialista en RRHH,Ventas,960.34,263.45,190.05,80.01,95.45,96.85,58.92,77.64,No,Sí,Sí,1832.48,Invertir en bolsa,5.2,3,False
+457,Diego Pérez,Perú,29,Representante de Ventas,Tecnología,867.5,232.38,219.63,128.43,11.76,67.56,58.35,105.15,Sí,Sí,Sí,1763.03,Ahorrar para retiro,6.4,2,False
+458,Ana López,México,27,Coordinador de Marketing,Ventas,1084.12,276.31,280.3,84.78,124.84,114.21,48.61,134.77,Sí,Sí,No,0.0,Fondo de emergencia,6.0,3,False
+459,Laura Núñez,Brasil,32,Representante de Ventas,Recursos Humanos,445.76,115.92,134.83,37.95,64.29,42.6,24.16,-1.3,Sí,Sí,No,0.0,Emprender un negocio,3.0,2,True
+460,Miguel Ruiz,Argentina,24,Diseñador Gráfico,Ventas,1075.5,319.01,220.23,169.84,89.05,151.26,75.71,148.29,Sí,No,Sí,3862.29,Fondo de emergencia,2.6,2,False
+461,Laura Ortega,Brasil,19,Representante de Ventas,Ventas,1634.53,486.51,413.34,227.58,84.7,154.17,138.77,90.49,No,Sí,No,0.0,Estudiar posgrado,11.0,3,False
+462,Camila Vega,Chile,24,Analista Financiero,Ingeniería,1288.75,387.75,347.87,59.87,34.46,83.39,31.27,129.08,No,Sí,Sí,4564.03,Invertir en bolsa,6.8,3,False
+463,Patricia Reyes,Colombia,23,Analista Financiero,Retail,1093.75,216.75,246.59,166.67,95.66,72.67,74.08,172.9,No,Sí,No,0.0,Ahorrar para viaje,3.4,3,False
+464,Valeria Núñez,Colombia,31,Representante de Ventas,Ingeniería,737.06,169.93,166.71,44.47,10.0,33.59,6.78,65.46,Sí,Sí,Sí,1045.93,Emprender un negocio,2.4,2,False
+465,Daniela Rojas,Argentina,31,Gerente de Proyectos,Educación,744.71,207.74,235.98,60.43,62.0,61.7,54.54,116.49,Sí,Sí,Sí,1894.68,Fondo de emergencia,1.2,2,False
+466,Natalia Alvarado,Argentina,27,Diseñador Gráfico,Retail,814.07,342.6,154.95,80.92,71.45,50.3,31.86,95.32,Sí,No,Sí,3646.83,Invertir en bolsa,6.7,2,False
+467,Emilio Guerrero,Perú,20,Ingeniero,Ingeniería,540.38,121.13,138.6,44.65,50.91,59.72,34.54,107.05,Sí,No,No,0.0,Fondo de emergencia,1.0,1,False
+468,Laura Reyes,Argentina,21,Analista Financiero,Finanzas,507.55,189.41,125.99,57.32,55.42,51.7,30.94,69.56,Sí,Sí,No,0.0,Ahorrar para retiro,2.8,2,False
+469,Eduardo López,México,31,Coordinador de Marketing,Marketing,591.14,211.53,123.29,58.5,33.46,35.47,15.96,165.57,Sí,Sí,No,0.0,Invertir en bolsa,4.7,2,False
+470,Gabriel Guerrero,Perú,29,Representante de Ventas,Educación,982.66,408.07,145.25,94.78,70.67,71.45,52.92,50.58,No,Sí,Sí,5158.58,Ahorrar para viaje,7.4,3,False
+471,Ricardo Vargas,México,28,Coordinador de Marketing,Diseño,1101.02,312.58,297.88,97.46,58.61,164.15,72.3,129.99,Sí,Sí,Sí,2161.35,Emprender un negocio,5.0,3,False
+472,Josué Castro,Argentina,30,Analista Financiero,Tecnología,1342.56,359.36,239.84,168.9,151.73,60.29,64.44,169.91,No,Sí,No,0.0,Invertir en bolsa,7.2,2,False
+473,Alejandro Ortega,Argentina,31,Especialista en RRHH,Educación,608.7,254.67,151.89,65.66,51.23,49.35,16.74,204.63,No,Sí,No,0.0,Emprender un negocio,0.0,2,False
+474,Tomás Vega,Chile,22,Especialista en RRHH,Tecnología,1707.23,608.03,318.9,209.2,262.62,211.31,102.14,56.52,Sí,Sí,No,0.0,Pagar deudas,9.3,3,False
+475,Natalia Ortega,Perú,22,Ingeniero,Recursos Humanos,867.99,220.91,197.34,73.03,108.34,112.68,44.57,131.39,Sí,No,No,0.0,Emprender un negocio,3.5,3,False
+476,Miguel Pérez,Brasil,23,Especialista en RRHH,Educación,2134.45,496.83,474.52,275.14,171.17,124.81,90.94,81.61,Sí,Sí,Sí,7986.39,Pagar deudas,8.6,3,False
+477,Camila Flores,Perú,23,Diseñador Gráfico,Finanzas,650.37,75.95,126.39,87.42,78.3,52.32,40.02,73.09,No,Sí,Sí,2231.07,Fondo de emergencia,6.3,2,False
+478,Emilio García,Chile,32,Community Manager,Ingeniería,1135.32,409.6,205.03,80.25,61.53,113.32,33.45,90.98,No,Sí,Sí,3893.29,Comprar casa,4.4,2,False
+479,Lucía Morales,México,22,Docente,Ventas,1496.73,417.16,320.33,144.01,104.69,123.65,92.17,-70.78,No,No,Sí,10918.73,Invertir en bolsa,9.6,3,True
+480,Eduardo Rojas,Colombia,29,Ingeniero,Retail,696.08,248.99,158.25,58.64,34.63,31.96,43.99,19.56,Sí,Sí,No,0.0,Ahorrar para viaje,2.9,2,False
+481,Valeria Vargas,México,25,Especialista en RRHH,Ventas,723.27,207.51,171.9,87.13,125.34,95.21,4.55,109.81,Sí,Sí,Sí,2887.28,Comprar casa,3.5,2,False
+482,Ana Medina,Brasil,31,Coordinador de Marketing,Tecnología,1638.0,432.57,390.33,157.67,127.15,85.0,92.96,303.13,No,Sí,Sí,5185.73,Comprar casa,7.9,3,False
+483,Natalia Morales,Argentina,29,Analista Financiero,Marketing,758.86,277.46,168.97,108.78,92.8,71.2,40.9,22.52,No,Sí,No,0.0,Pagar deudas,1.1,3,False
+484,Josué Rojas,Argentina,26,Representante de Ventas,Marketing,926.27,288.11,219.55,88.89,83.22,65.17,46.96,9.61,Sí,Sí,No,0.0,Fondo de emergencia,5.4,2,False
+485,Patricia Sánchez,Colombia,29,Diseñador Gráfico,Ventas,776.72,208.62,159.73,56.14,65.33,84.43,31.26,-25.37,No,Sí,Sí,2818.5,Fondo de emergencia,6.0,3,True
+486,Claudia García,Perú,25,Analista Financiero,Salud,679.44,157.39,158.99,90.85,83.1,84.22,6.49,165.58,Sí,Sí,No,0.0,Fondo de emergencia,4.5,2,False
+487,Gabriel Sánchez,Colombia,22,Gerente de Proyectos,Tecnología,831.4,210.12,188.87,79.59,88.5,106.25,32.09,-0.78,Sí,Sí,No,0.0,Estudiar posgrado,4.9,3,True
+488,Camila Salinas,México,27,Analista Financiero,Marketing,628.53,237.52,133.69,47.73,64.46,62.23,24.96,-28.86,No,Sí,Sí,1486.45,Fondo de emergencia,1.0,1,True
+489,Claudia Mendoza,Brasil,27,Diseñador Gráfico,Ingeniería,2523.6,753.02,741.66,285.58,203.14,106.2,58.43,24.43,Sí,No,No,0.0,Emprender un negocio,11.6,4,False
+490,Valentina Vargas,México,29,Especialista en RRHH,Marketing,768.1,165.94,220.46,85.33,72.1,42.08,35.43,62.58,Sí,Sí,No,0.0,Estudiar posgrado,2.3,2,False
+491,Miguel Pérez,Perú,28,Gerente de Proyectos,Salud,761.98,211.6,167.26,73.11,56.45,38.99,46.69,162.66,No,No,No,0.0,Pagar deudas,1.9,2,False
+492,Carlos Vega,México,31,Diseñador Gráfico,Educación,1416.32,353.7,467.47,169.16,140.92,72.41,120.73,279.75,Sí,Sí,No,0.0,Estudiar posgrado,7.3,2,False
+493,Emilio Cruz,México,22,Docente,Salud,1693.16,504.95,324.34,207.43,102.27,109.35,79.31,253.25,No,Sí,Sí,5093.03,Emprender un negocio,12.1,3,False
+494,Pablo Morales,México,32,Analista Financiero,Salud,1250.06,368.7,255.5,166.17,164.2,117.46,26.82,214.4,No,Sí,No,0.0,Comprar casa,4.7,2,False
+495,Valeria Mendoza,Chile,21,Ingeniero,Marketing,1568.81,654.79,456.17,102.65,161.61,136.67,67.61,179.43,Sí,Sí,Sí,6523.24,Estudiar posgrado,7.0,3,False
+496,Fernanda Cruz,Brasil,29,Representante de Ventas,Salud,940.43,241.37,270.2,102.0,88.43,92.83,52.68,20.01,No,No,No,0.0,Ahorrar para viaje,6.0,3,False
+497,Emilio Salinas,Chile,26,Analista Financiero,Recursos Humanos,886.4,319.39,219.7,112.49,55.52,96.64,48.23,76.09,No,Sí,No,0.0,Fondo de emergencia,3.3,2,False
+498,Pablo Mendoza,México,27,Contador,Finanzas,1452.65,238.8,345.25,138.48,101.7,67.29,99.04,182.28,Sí,Sí,No,0.0,Pagar deudas,4.2,3,False
+499,Fernanda Alvarado,Argentina,25,Contador,Ingeniería,880.29,288.9,208.93,70.61,89.06,73.92,60.01,86.09,No,No,Sí,6694.62,Invertir en bolsa,8.4,2,False
+500,Ana Mendoza,México,32,Representante de Ventas,Marketing,976.96,321.19,221.23,80.44,130.3,116.16,51.33,310.41,No,Sí,Sí,5608.85,Ahorrar para viaje,6.3,3,False
