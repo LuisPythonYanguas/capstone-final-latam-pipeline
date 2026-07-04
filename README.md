@@ -7,6 +7,7 @@ Hooks that validate outputs and log every step, Skills that enforce a consistent
 and a Notion MCP that publishes findings to a board-facing workspace.
 
 🔗 **Repository:** https://github.com/LuisPythonYanguas/capstone-final-latam-pipeline
+🗂️ **Notion workspace:** https://app.notion.com/p/An-lisis-LatAm-2025-393be614231d8029990fdaee96bb2ff5
 📄 **Report:** [`analysis-report.md`](analysis-report.md)
 
 ---
